@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{AD33D536-0241-4F4B-92E1-CAA5D34AC62E}</ProjectGuid>
+    <RootNamespace>UnitTest</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <OutDir>$(SolutionDir)bin\$(Platform)\</OutDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>$(SolutionDir)bin\$(Platform)\</OutDir>
+    <IntDir>$(Platform)\$(Configuration)\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <OutDir>$(SolutionDir)bin\$(Platform)\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>$(SolutionDir)bin\$(Platform)\</OutDir>
+    <IntDir>$(Platform)\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>false</SDLCheck>
+      <AdditionalIncludeDirectories>$(SolutionDir)Test\UnitTest\gtest\include;$(SolutionDir)Test\UnitTest\stub\include;$(SolutionDir)..\3rdParty\windows\include;$(SolutionDir)Common;$(SolutionDir)Features</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <PreprocessorDefinitions>_WIN32_WINNT=0x0600;WINVER=0x0600;ZLIB_WINAPI;_VARIADIC_MAX=10;WIN32;_CONSOLE;_UNICODE;UNICODE</PreprocessorDefinitions>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>gtest.lib;utility.lib;pugixml.lib;LibConfigParser.lib;zlibstat.lib;libAssetScan.lib;Version.lib;Ws2_32.lib;Shell32.lib;libcrypto32MT.lib;LibHostDiscovery.lib;Iphlpapi.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(SolutionDir)Test\UnitTest\gtest\lib\googletest\$(Platform)\$(Configuration);$(SolutionDir)lib\$(Platform);$(SolutionDir)..\3rdParty\windows\lib\pugixml\$(Platform)\$(Configuration);$(SolutionDir)..\3rdParty\windows\lib\zlib\$(Platform)\$(Configuration);$(SolutionDir)..\3rdParty\windows\lib\openssl\$(Platform)\$(Configuration)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>false</SDLCheck>
+      <AdditionalIncludeDirectories>$(SolutionDir)Test\UnitTest\gtest\include;$(SolutionDir)Test\UnitTest\stub\include;$(SolutionDir)..\3rdParty\windows\include;$(SolutionDir)Common;$(SolutionDir)Features</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_WIN32_WINNT=0x0600;WINVER=0x0600;ZLIB_WINAPI;_VARIADIC_MAX=10;WIN32;_CONSOLE;_UNICODE;UNICODE</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(SolutionDir)Test\UnitTest\gtest\lib\googletest\$(Platform)\$(Configuration);$(SolutionDir)lib\$(Platform);$(SolutionDir)..\3rdParty\windows\lib\pugixml\$(Platform)\$(Configuration);$(SolutionDir)..\3rdParty\windows\lib\zlib\$(Platform)\$(Configuration);$(SolutionDir)..\3rdParty\windows\lib\openssl\$(Platform)\$(Configuration)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>gtest.lib;utility.lib;pugixml.lib;LibConfigParser.lib;zlibstat.lib;libAssetScan.lib;Version.lib;Ws2_32.lib;Shell32.lib;libcrypto64MT.lib;LibHostDiscovery.lib;Iphlpapi.lib</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>false</SDLCheck>
+      <AdditionalIncludeDirectories>$(SolutionDir)Test\UnitTest\gtest\include;$(SolutionDir)Test\UnitTest\stub\include;$(SolutionDir)..\3rdParty\windows\include;$(SolutionDir)Common;$(SolutionDir)Features</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_WIN32_WINNT=0x0600;WINVER=0x0600;ZLIB_WINAPI;_VARIADIC_MAX=10;WIN32;_CONSOLE;_UNICODE;UNICODE</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>$(SolutionDir)Test\UnitTest\gtest\lib\googletest\$(Platform)\$(Configuration);$(SolutionDir)lib\$(Platform);$(SolutionDir)..\3rdParty\windows\lib\pugixml\$(Platform)\$(Configuration);$(SolutionDir)..\3rdParty\windows\lib\zlib\$(Platform)\$(Configuration);$(SolutionDir)..\3rdParty\windows\lib\openssl\$(Platform)\$(Configuration)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>gtest.lib;utility.lib;pugixml.lib;LibConfigParser.lib;zlibstat.lib;libAssetScan.lib;Version.lib;Ws2_32.lib;Shell32.lib;libcrypto32MT.lib;LibHostDiscovery.lib;Iphlpapi.lib</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>false</IntrinsicFunctions>
+      <SDLCheck>false</SDLCheck>
+      <AdditionalIncludeDirectories>$(SolutionDir)Test\UnitTest\gtest\include;$(SolutionDir)Test\UnitTest\stub\include;$(SolutionDir)..\3rdParty\windows\include;$(SolutionDir)Common;$(SolutionDir)Features</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_WIN32_WINNT=0x0600;WINVER=0x0600;ZLIB_WINAPI;_VARIADIC_MAX=10;WIN32;_CONSOLE;_UNICODE;UNICODE</PreprocessorDefinitions>
+      <WholeProgramOptimization>true</WholeProgramOptimization>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <MinimalRebuild>false</MinimalRebuild>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>$(SolutionDir)Test\UnitTest\gtest\lib\googletest\$(Platform)\$(Configuration);$(SolutionDir)lib\$(Platform);$(SolutionDir)..\3rdParty\windows\lib\pugixml\$(Platform)\$(Configuration);$(SolutionDir)..\3rdParty\windows\lib\zlib\$(Platform)\$(Configuration);$(SolutionDir)..\3rdParty\windows\lib\openssl\$(Platform)\$(Configuration)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>gtest.lib;utility.lib;pugixml.lib;LibConfigParser.lib;zlibstat.lib;libAssetScan.lib;Version.lib;Ws2_32.lib;Shell32.lib;libcrypto64MT.lib;LibHostDiscovery.lib;Iphlpapi.lib</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="gtest\src\main.cpp" />
+    <ClCompile Include="suite_IpRangeParser.cpp" />
+    <ClCompile Include="suit_ArpRequestHelper.cpp" />
+    <ClCompile Include="suit_ArpTableParser.cpp" />
+    <ClCompile Include="suit_HostDiscoveryHelper.cpp" />
+    <ClCompile Include="suit_MacAddrHelper.cpp" />
+    <ClCompile Include="suit_PingIcmpHelper.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="gtest\include\gtest\gtest-death-test.h" />
+    <ClInclude Include="gtest\include\gtest\gtest-message.h" />
+    <ClInclude Include="gtest\include\gtest\gtest-param-test.h" />
+    <ClInclude Include="gtest\include\gtest\gtest-printers.h" />
+    <ClInclude Include="gtest\include\gtest\gtest-spi.h" />
+    <ClInclude Include="gtest\include\gtest\gtest-test-part.h" />
+    <ClInclude Include="gtest\include\gtest\gtest-typed-test.h" />
+    <ClInclude Include="gtest\include\gtest\gtest.h" />
+    <ClInclude Include="gtest\include\gtest\gtest_pred_impl.h" />
+    <ClInclude Include="gtest\include\gtest\gtest_prod.h" />
+    <ClInclude Include="gtest\include\gtest\internal\gtest-death-test-internal.h" />
+    <ClInclude Include="gtest\include\gtest\internal\gtest-filepath.h" />
+    <ClInclude Include="gtest\include\gtest\internal\gtest-internal.h" />
+    <ClInclude Include="gtest\include\gtest\internal\gtest-linked_ptr.h" />
+    <ClInclude Include="gtest\include\gtest\internal\gtest-param-util-generated.h" />
+    <ClInclude Include="gtest\include\gtest\internal\gtest-param-util.h" />
+    <ClInclude Include="gtest\include\gtest\internal\gtest-port.h" />
+    <ClInclude Include="gtest\include\gtest\internal\gtest-string.h" />
+    <ClInclude Include="gtest\include\gtest\internal\gtest-tuple.h" />
+    <ClInclude Include="gtest\include\gtest\internal\gtest-type-util.h" />
+    <ClInclude Include="stub\include\addr_pri.h" />
+    <ClInclude Include="stub\include\stub.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="gtest\include\gtest\gtest-param-test.h.pump" />
+    <None Include="gtest\include\gtest\internal\gtest-param-util-generated.h.pump" />
+    <None Include="gtest\include\gtest\internal\gtest-tuple.h.pump" />
+    <None Include="gtest\include\gtest\internal\gtest-type-util.h.pump" />
+    <None Include="Patterns\BaseLine_pattern\win_baseline_p-b36.zip" />
+    <None Include="Patterns\OsScan_pattern\win_vuln_os_p-b14.zip" />
+    <None Include="Patterns\WPScan_pattern\weakpwd_p-b2.zip" />
+    <None Include="templates\configfiles\apache\apache_sub\apacheSub01.conf" />
+    <None Include="templates\configfiles\apache\apache_sub\apacheSub02.conf" />
+    <None Include="templates\configfiles\apache\httpd.conf" />
+    <None Include="templates\configfiles\apache\httpd_uncorrected.conf" />
+    <None Include="templates\configfiles\apache\ssl.conf" />
+    <None Include="templates\configfiles\iis\applicationHost.config" />
+    <None Include="templates\configfiles\nginx\nginx.conf" />
+    <None Include="templates\configfiles\nginx\nginxtest.conf" />
+    <None Include="templates\configfiles\nginx\nginxtest_uncorrected.conf" />
+    <None Include="templates\configfiles\nginx\nginx_uncorrected.conf" />
+    <None Include="templates\configfiles\nginx\no_server.conf" />
+    <None Include="templates\configfiles\nginx\nx_http.conf" />
+    <None Include="templates\configfiles\nginx\testnx.conf" />
+    <None Include="templates\configfiles\nginx\testnx_uncorrected.conf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="gtest\lib\googletest\win32\Debug\gtest.lib" />
+    <Library Include="gtest\lib\googletest\win32\Release\gtest.lib" />
+    <Library Include="gtest\lib\googletest\x64\Debug\gtest.lib" />
+    <Library Include="gtest\lib\googletest\x64\Release\gtest.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="templates\configfiles\tomcat\server.xml" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

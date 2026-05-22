@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\ExtendFunc">
+      <UniqueIdentifier>{8c149548-9f8f-4854-a8b6-bbd6e46f3f11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cypher">
+      <UniqueIdentifier>{194a75da-b74a-4838-b141-a98858e27363}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cypher">
+      <UniqueIdentifier>{1d57cf58-0326-45f1-b5b4-e1c13fcc5485}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ExtendFunc">
+      <UniqueIdentifier>{87662804-f60f-46d8-92a5-d8cadc091692}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\lua">
+      <UniqueIdentifier>{c3b0e267-2ed4-4f09-9bac-c2f04105092d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\zlib">
+      <UniqueIdentifier>{a8666417-3299-4432-86eb-bfc7519d55b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\md5">
+      <UniqueIdentifier>{29b47cfc-34bc-4bf3-9b9e-f87f37580630}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\md5">
+      <UniqueIdentifier>{53496d8b-7cda-4f9f-b6ab-fb193ef96eb7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\include\VAScan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ExtendFunc\ExtendFunc.h">
+      <Filter>Header Files\ExtendFunc</Filter>
+    </ClInclude>
+    <ClInclude Include="ExtendFunc\base.h">
+      <Filter>Header Files\ExtendFunc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cypher\cypher.h">
+      <Filter>Header Files\Cypher</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cypher\cypher_defs.h">
+      <Filter>Header Files\Cypher</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\lua\lauxlib.h">
+      <Filter>Header Files\lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\lua\lua.h">
+      <Filter>Header Files\lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\lua\luaconf.h">
+      <Filter>Header Files\lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\lua\lualib.h">
+      <Filter>Header Files\lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\zlib\zconf.h">
+      <Filter>Header Files\zlib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\zlib\zlib.h">
+      <Filter>Header Files\zlib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\md5\md5.h">
+      <Filter>Header Files\md5</Filter>
+    </ClInclude>
+    <ClInclude Include="VAScanVersion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExtendFunc\ExtendFunc.cpp">
+      <Filter>Source Files\ExtendFunc</Filter>
+    </ClCompile>
+    <ClCompile Include="ExtendFunc\base.cpp">
+      <Filter>Source Files\ExtendFunc</Filter>
+    </ClCompile>
+    <ClCompile Include="VAScan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cypher\cpbf.c">
+      <Filter>Source Files\Cypher</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cypher\cypher.c">
+      <Filter>Source Files\Cypher</Filter>
+    </ClCompile>
+    <ClCompile Include="..\md5\md5.cpp">
+      <Filter>Source Files\md5</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Source.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="VAScan.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

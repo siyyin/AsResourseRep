@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VAScan", "VAScan\VAScan.vcxproj", "{ECEF1BBB-9B80-4935-85DD-CF3F771A3A37}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VAScanTest", "VAScanTest\VAScanTest.vcxproj", "{9C6D56D7-9738-4333-A84F-7F3858C786B9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{ECEF1BBB-9B80-4935-85DD-CF3F771A3A37} = {ECEF1BBB-9B80-4935-85DD-CF3F771A3A37}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{91BFE7AE-0270-41B1-8B27-357E86585068}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Encrypt", "Encrypt\Encrypt.vcxproj", "{5AB26A05-9057-475A-88BC-B213D911734A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECEF1BBB-9B80-4935-85DD-CF3F771A3A37}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ECEF1BBB-9B80-4935-85DD-CF3F771A3A37}.Debug|Win32.Build.0 = Debug|Win32
+		{ECEF1BBB-9B80-4935-85DD-CF3F771A3A37}.Debug|Win32.Deploy.0 = Debug|Win32
+		{ECEF1BBB-9B80-4935-85DD-CF3F771A3A37}.Debug|x64.ActiveCfg = Debug|x64
+		{ECEF1BBB-9B80-4935-85DD-CF3F771A3A37}.Debug|x64.Build.0 = Debug|x64
+		{ECEF1BBB-9B80-4935-85DD-CF3F771A3A37}.Debug|x64.Deploy.0 = Debug|x64
+		{ECEF1BBB-9B80-4935-85DD-CF3F771A3A37}.Release|Win32.ActiveCfg = Release|Win32
+		{ECEF1BBB-9B80-4935-85DD-CF3F771A3A37}.Release|Win32.Build.0 = Release|Win32
+		{ECEF1BBB-9B80-4935-85DD-CF3F771A3A37}.Release|Win32.Deploy.0 = Release|Win32
+		{ECEF1BBB-9B80-4935-85DD-CF3F771A3A37}.Release|x64.ActiveCfg = Release|x64
+		{ECEF1BBB-9B80-4935-85DD-CF3F771A3A37}.Release|x64.Build.0 = Release|x64
+		{ECEF1BBB-9B80-4935-85DD-CF3F771A3A37}.Release|x64.Deploy.0 = Release|x64
+		{9C6D56D7-9738-4333-A84F-7F3858C786B9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C6D56D7-9738-4333-A84F-7F3858C786B9}.Debug|Win32.Build.0 = Debug|Win32
+		{9C6D56D7-9738-4333-A84F-7F3858C786B9}.Debug|Win32.Deploy.0 = Debug|Win32
+		{9C6D56D7-9738-4333-A84F-7F3858C786B9}.Debug|x64.ActiveCfg = Debug|x64
+		{9C6D56D7-9738-4333-A84F-7F3858C786B9}.Debug|x64.Build.0 = Debug|x64
+		{9C6D56D7-9738-4333-A84F-7F3858C786B9}.Debug|x64.Deploy.0 = Debug|x64
+		{9C6D56D7-9738-4333-A84F-7F3858C786B9}.Release|Win32.ActiveCfg = Release|Win32
+		{9C6D56D7-9738-4333-A84F-7F3858C786B9}.Release|Win32.Build.0 = Release|Win32
+		{9C6D56D7-9738-4333-A84F-7F3858C786B9}.Release|Win32.Deploy.0 = Release|Win32
+		{9C6D56D7-9738-4333-A84F-7F3858C786B9}.Release|x64.ActiveCfg = Release|x64
+		{9C6D56D7-9738-4333-A84F-7F3858C786B9}.Release|x64.Build.0 = Release|x64
+		{9C6D56D7-9738-4333-A84F-7F3858C786B9}.Release|x64.Deploy.0 = Release|x64
+		{5AB26A05-9057-475A-88BC-B213D911734A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5AB26A05-9057-475A-88BC-B213D911734A}.Debug|x64.ActiveCfg = Debug|x64
+		{5AB26A05-9057-475A-88BC-B213D911734A}.Release|Win32.ActiveCfg = Release|Win32
+		{5AB26A05-9057-475A-88BC-B213D911734A}.Release|x64.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

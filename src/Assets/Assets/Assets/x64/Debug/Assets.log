@@ -1,0 +1,28 @@
+﻿Build started 2021/12/20 15:09:21.
+     1>Project "C:\F\liyp2\Assets\Assets\Assets\Assets.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt DIAssetWebService.cpp
+         DIAssetWebService.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\F\liyp2\Assets\Assets\x64\Debug\Assets.exe" /INCREMENTAL /NOLOGO /LIBPATH:./lib/x64/Release ws2_32.lib Version.lib libcurl_a.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\F\liyp2\Assets\Assets\x64\Debug\Assets.pdb" /SUBSYSTEM:CONSOLE,"5.02" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\F\liyp2\Assets\Assets\x64\Debug\Assets.lib" /MACHINE:X64 x64\Debug\Assets.obj
+         x64\Debug\Assetsinventory.obj
+         x64\Debug\DIAssetAutoRun.obj
+         x64\Debug\DIAssetDB.obj
+         x64\Debug\DIAssetExceSql.obj
+         x64\Debug\DIAssetPort.obj
+         x64\Debug\DIAssetTask.obj
+         x64\Debug\DIAssetWebService.obj
+         x64\Debug\DIMutex.obj
+         x64\Debug\DIUtils.obj
+         x64\Debug\DIWMICom.obj
+         x64\Debug\LogManager.obj
+         x64\Debug\NetUtils.obj
+         x64\Debug\Repairation.obj
+         x64\Debug\stdafx.obj
+         x64\Debug\StringUtils.obj
+         Assets.vcxproj -> C:\F\liyp2\Assets\Assets\x64\Debug\Assets.exe
+     1>Done Building Project "C:\F\liyp2\Assets\Assets\Assets\Assets.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.00

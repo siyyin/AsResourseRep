@@ -1,0 +1,354 @@
+patternver=${mydict["ver"]}
+-- 定义漏洞匹配找到的信息类型
+BaseType = {
+    linux_kernel = 8,
+    kernel_running = 9,
+    kernel_boot = 10
+}
+
+
+VulType = {
+    OS = 1,
+    App = 2,
+    Web = 3,
+    db = 4
+}
+
+-- 定义漏洞匹配查找的匹配动作
+BaseOper = {
+    lessthan = 1,
+    equalto = 2,
+    greaterthan = 3,
+    notinstalled = 4,
+    boot_next = 6
+}
+
+BaseOS = {
+    Rhel5 = 1,
+    Rhel6 = 2,
+    Rhel7 = 3,
+    Rhel8 = 4,
+    Rhel9 = 5,
+    Oracle6 = 10,
+    Oracle7 = 11,
+    Oracle8 = 12,
+    Ubuntu16 = 15,
+    Ubuntu18 = 16,
+    Ubuntu20 = 17,
+    Suse12 = 20,
+    Suse12_sp1 = 21,    -- SuSE官方OVAL里区分了sp的小版本
+    Suse12_sp2 = 22,
+    Suse12_sp3 = 23,
+    Suse12_sp4 = 24,
+    Suse12_sp5 = 25,
+    Suse15 = 26,
+    Suse15_sp1 = 27,
+    Suse15_sp2 = 28,
+    Suse15_sp3 = 29
+}
+
+local ruleList = {}
+local File_Version = {}
+local OS_Type = nil
+local Linux_Product = nil
+local Linux_Version = nil
+local Linux_Kernel_Runing = nil
+local Linux_Kernel_Boot = nil
+
+-- 所有的模块都通过这个函数来实现添加
+function AddModule(module_id)
+    ruleList[#ruleList + 1] = module_id
+end
+
+function GetModule() 
+    return ruleList 
+end
+
+function GetOsType() 
+    return OS_Type 
+end
+
+
+function GetFileVersion(filename)
+    --print(filename)
+    if File_Version[filename] == nil then
+        File_Version[filename] = extendFunc.GetFileVersion(filename)
+        --File_Version[filename] = "0"
+    end
+    --print(File_Version[filename])
+    return File_Version[filename]
+end
+
+function FileVersionCompare(Version1, Version2)
+    if Version1==nil or Version2==nil then
+        return BaseOper.lessthan
+    end
+    local V1 = {}
+    local V2 = {}
+    local len
+
+    for w in string.gmatch(Version1, '[%w]+') do
+        V1[#V1+1] = w
+    end
+
+    for w in string.gmatch(Version2, '[%w]+') do
+        V2[#V2+1] = w
+    end
+    len = #V1
+    if len>#V2 then
+        len = #V2
+    end
+
+    for i=1,len do
+        if #V1[i]>#V2[i] then
+            return BaseOper.greaterthan
+        elseif #V1[i]<#V2[i] then
+            return BaseOper.lessthan
+        end
+        if V1[i]>V2[i] then
+            return BaseOper.greaterthan
+        elseif V1[i]<V2[i] then
+            return BaseOper.lessthan
+        end
+    end
+    return BaseOper.equalto
+end
+
+
+function GetKernelRuning()
+    return Linux_Kernel_Runing
+end
+
+function GetKernelBoot()
+    return Linux_Kernel_Boot
+end
+
+function InitGetInfo()
+    -- 初始化一次
+    --Linux_Product = "Red Hat Enterprise Linux"
+    --Linux_Version = "7.1"
+    --Linux_Kernel_Runing = "2.10.0-693.21.1.el7.x86_64"
+    --Linux_Kernel_Boot = "2.10.0-693.21.1.el7.x86_64"
+
+    Linux_Product = extendFunc.GetLinuxBuild()
+    Linux_Version = extendFunc.LinuxVersion()
+    Linux_Kernel_Runing = extendFunc.GetKernelRuning()
+    Linux_Kernel_Boot = extendFunc.GetKernelBoot()
+
+    --print(Linux_Product);
+    --print(Linux_Version);
+    --print(Linux_Kernel_Runing);
+    --print(Linux_Kernel_Boot);
+
+    ---获取Linux系统类型
+    if string.find(string.lower(Linux_Product),string.lower("Red Hat")) ~= nil or string.find(string.lower(Linux_Product),string.lower("centos")) ~= nil then
+        Linux_Version = string.sub(Linux_Version, 1, 1)
+        if Linux_Version=="5" then
+            OS_Type = BaseOS.Rhel5
+        elseif Linux_Version=="6" then
+            OS_Type = BaseOS.Rhel6
+        elseif Linux_Version=="7" then
+            OS_Type = BaseOS.Rhel7
+        elseif Linux_Version=="8" then
+            OS_Type = BaseOS.Rhel8
+        elseif Linux_Version=="9" then
+            OS_Type = BaseOS.Rhel9
+        end
+    elseif string.find(string.lower(Linux_Product),string.lower("Oracle")) ~= nil then
+        Linux_Version = string.sub(Linux_Version, 1, 1)
+        if Linux_Version=="6" then
+            OS_Type = BaseOS.Oracle6
+        elseif Linux_Version=="7" then
+            OS_Type = BaseOS.Oracle7
+        elseif Linux_Version=="8" then
+            OS_Type = BaseOS.Oracle8
+        end
+    elseif string.find(string.lower(Linux_Product),string.lower("Ubuntu")) ~= nil then
+        Linux_Version = string.sub(Linux_Version, 1, 2)
+        if Linux_Version=="16" then
+            OS_Type = BaseOS.Ubuntu16
+        elseif Linux_Version=="18" then
+            OS_Type = BaseOS.Ubuntu18
+        elseif Linux_Version=="20" then
+            OS_Type = BaseOS.Ubuntu20
+        end
+    elseif string.find(string.lower(Linux_Product),string.lower("SUSE")) ~= nil then
+        Linux_Version = string.sub(Linux_Version, 1, -2)
+        if Linux_Version=="12" then
+            OS_Type = BaseOS.Suse12
+        elseif Linux_Version=="12.1" then
+            OS_Type = BaseOS.Suse12_sp1
+        elseif Linux_Version=="12.2" then
+            OS_Type = BaseOS.Suse12_sp2
+        elseif Linux_Version=="12.3" then
+            OS_Type = BaseOS.Suse12_sp3
+        elseif Linux_Version=="12.4" then
+            OS_Type = BaseOS.Suse12_sp4
+        elseif Linux_Version=="12.5" then
+            OS_Type = BaseOS.Suse12_sp5
+        elseif Linux_Version=="15" then
+            OS_Type = BaseOS.Suse15
+        elseif Linux_Version=="15.1" then
+            OS_Type = BaseOS.Suse15_sp1
+        elseif Linux_Version=="15.2" then
+            OS_Type = BaseOS.Suse15_sp2
+        elseif Linux_Version=="15.3" then
+            OS_Type = BaseOS.Suse15_sp3
+        end
+    end
+
+
+	--print(OS_Type)
+    return
+end
+
+
+
+InitGetInfo()
+
+----------------------------------------------------------------------------------------
+--              所有的pattern 都必须继承自该类。并实现其中的Scan                 --
+----------------------------------------------------------------------------------------
+--- the base class of VulRule
+
+VulRule = {
+    PatchId = "",
+    PatchUrl = ${mydict["patch_url"]},
+    PatchFull = "",
+    CVEId = "",
+    CVEUrl = ${mydict["cve_url"]},
+    CVEUrlFull = "",
+    description = "",
+    CVEType = VulType.OS,
+    criteria = {
+        OS = nil,
+        logic = {Type = nil, filename = nil, Version = nil, Oper = nil}
+    }
+
+}
+
+function VulRule:new(r)
+    r = r or {}
+    self.__index = self
+    setmetatable(r, self)
+    return r
+end
+
+function VulRule:Scan()
+    local Bfind = false
+    ---print(self.CVEId)
+    for _, tab in ipairs(self.criteria) do
+        ---print(tab.OS)
+        if tab.OS == GetOsType() then
+            Bfind = true
+            Binstall = false
+            for _, value in pairs(tab.logic) do
+                local Oper = value["Oper"]
+                local Type = value["Type"]
+                local filename = value["filename"]
+                local Version = value["Version"]
+                if Type == BaseType.kernel_running then
+                    Binstall = true
+                    if FileVersionCompare(GetKernelRuning(), Version) ~= Oper then
+                        Bfind = false
+                        break
+                    elseif string.find(string.lower(filename),string.lower("rt")) ~= nil and string.find(string.lower(GetKernelRuning()),string.lower("rt")) == nil then
+                        Bfind = false
+                        break
+                    elseif string.find(string.lower(filename),string.lower("rt")) == nil and string.find(string.lower(GetKernelRuning()),string.lower("rt")) ~= nil then
+                        Bfind = false
+                        break
+                    end
+                elseif Type == BaseType.kernel_boot then
+                    Binstall = true
+                    if FileVersionCompare(GetKernelBoot(), Version) ~= Oper then
+                        Bfind = false
+                        break
+                    elseif string.find(string.lower(filename),string.lower("rt")) ~= nil and string.find(string.lower(GetKernelBoot()),string.lower("rt")) == nil then
+                        Bfind = false
+                        break
+                    elseif string.find(string.lower(filename),string.lower("rt")) == nil and string.find(string.lower(GetKernelBoot()),string.lower("rt")) ~= nil then
+                        Bfind = false
+                        break
+                    end
+                elseif Type == BaseType.linux_kernel then
+                    local filever = GetFileVersion(filename)
+                    if not Binstall and FileVersionCompare(filever, "0") == BaseOper.greaterthan then
+                        Binstall = true
+                    end
+                    if FileVersionCompare(filever, Version) ~= Oper then
+                        Bfind = false
+                        break
+                    end
+                end
+
+                ---for key0, value0 in pairs(value) do
+                ---	print("\t", key0, "===>", value0)
+                ---end
+            end
+
+            if Bfind and Binstall then
+                ---print(self.CVEId)
+                ---print(tab.OS)
+                return true
+            end
+        end
+    end
+    return false
+end
+
+function VulRule:createScanResult() return self.PatchId,self.PatchUrl,self.PatchFull,self.CVEId,self.CVEUrl,self.CVEUrlFull,self.description,self.CVEType end
+
+% for tp in mytuple:
+${tp["rule"]} = VulRule:new()
+
+${tp["rule_item"]} = ${tp["rule"]}:new{
+PatchId = ${tp["patch_id"]},
+CVEId = ${tp["cve_id"]},
+criteria = {
+% for ctatuple in tp["criteria"]:
+% if len(ctatuple) == 1:
+{OS = BaseOS.${ctatuple[0][0]},
+logic = {
+{Type = BaseType.${ctatuple[0][1]},filename = ${ctatuple[0][2]}, Version = ${ctatuple[0][3]},Oper = BaseOper.${ctatuple[0][4]}}}},
+% else:
+{OS = BaseOS.${ctatuple[0][0]},
+logic = {
+% for cta in ctatuple:
+{Type = BaseType.${cta[1]},filename = ${cta[2]}, Version = ${cta[3]},Oper = BaseOper.${cta[4]}},
+% endfor
+}},
+% endif
+% endfor
+}}
+
+AddModule(${tp["rule_item"]})
+
+% endfor
+
+
+local allrule = GetModule()
+
+local result = {}
+
+function ScanFun()
+    local result = "{\"result\":["
+	local bfind = false
+---扫描所有规则
+    for _, v in pairs(allrule) do 
+		if v:Scan() then
+            local PatchId,PatchUrl,PatchFull,CVEId,CVEUrl,CVEUrlFull,description,CVEType = v:createScanResult()
+			if bfind then
+				result = table.concat{result, ",{\"Patchid\":\"", PatchId, "\",\"PatchUrl\":\"",PatchUrl,"\",\"PatchFull\":\"",PatchFull,"\",\"CveId\":\"",CVEId,"\",\"CVEUrl\":\"",CVEUrl,"\",\"CVEUrlFull\":\"",CVEUrlFull,"\",\"Type\":\"",CVEType,"\",\"desc\":\"", description, "\"}"}
+			else
+				result = table.concat{result, "{\"Patchid\":\"", PatchId, "\",\"PatchUrl\":\"",PatchUrl,"\",\"PatchFull\":\"",PatchFull,"\",\"CveId\":\"",CVEId,"\",\"CVEUrl\":\"",CVEUrl,"\",\"CVEUrlFull\":\"",CVEUrlFull,"\",\"Type\":\"",CVEType,"\",\"desc\":\"", description, "\"}"}
+			end
+			bfind = true
+		end 
+	end
+
+	result = table.concat{result, "]}"}
+    return result
+end
+
+--ScanFun()

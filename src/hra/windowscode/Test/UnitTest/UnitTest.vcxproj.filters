@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="gtest\src\main.cpp">
+      <Filter>gtest\src</Filter>
+    </ClCompile>
+    <ClCompile Include="suite_IpRangeParser.cpp" />
+    <ClCompile Include="suit_ArpRequestHelper.cpp" />
+    <ClCompile Include="suit_ArpTableParser.cpp" />
+    <ClCompile Include="suit_HostDiscoveryHelper.cpp" />
+    <ClCompile Include="suit_MacAddrHelper.cpp" />
+    <ClCompile Include="suit_PingIcmpHelper.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stub\include\addr_pri.h">
+      <Filter>stub\include</Filter>
+    </ClInclude>
+    <ClInclude Include="stub\include\stub.h">
+      <Filter>stub\include</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\internal\gtest-death-test-internal.h">
+      <Filter>gtest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\internal\gtest-filepath.h">
+      <Filter>gtest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\internal\gtest-internal.h">
+      <Filter>gtest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\internal\gtest-linked_ptr.h">
+      <Filter>gtest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\internal\gtest-param-util.h">
+      <Filter>gtest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\internal\gtest-param-util-generated.h">
+      <Filter>gtest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\internal\gtest-port.h">
+      <Filter>gtest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\internal\gtest-string.h">
+      <Filter>gtest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\internal\gtest-tuple.h">
+      <Filter>gtest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\internal\gtest-type-util.h">
+      <Filter>gtest\include\gtest\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\gtest.h">
+      <Filter>gtest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\gtest_pred_impl.h">
+      <Filter>gtest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\gtest_prod.h">
+      <Filter>gtest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\gtest-death-test.h">
+      <Filter>gtest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\gtest-message.h">
+      <Filter>gtest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\gtest-param-test.h">
+      <Filter>gtest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\gtest-printers.h">
+      <Filter>gtest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\gtest-spi.h">
+      <Filter>gtest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\gtest-test-part.h">
+      <Filter>gtest\include\gtest</Filter>
+    </ClInclude>
+    <ClInclude Include="gtest\include\gtest\gtest-typed-test.h">
+      <Filter>gtest\include\gtest</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="stub">
+      <UniqueIdentifier>{80621c0b-0e37-4418-91bb-d99a9f4c632b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="stub\include">
+      <UniqueIdentifier>{8a2660b1-fef9-4948-9c84-22b8f6e27dfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="stub\src">
+      <UniqueIdentifier>{76e4f426-a7a1-4305-abf0-1e71c5571057}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gtest">
+      <UniqueIdentifier>{4d7ff464-e64c-4c56-94e4-9334e643a9e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gtest\include">
+      <UniqueIdentifier>{10980cb4-8673-4106-b1aa-42762a672ee8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gtest\src">
+      <UniqueIdentifier>{ead4d0cf-4539-4172-81ee-ff55a20f8b81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gtest\lib">
+      <UniqueIdentifier>{542aa909-736a-4d0d-9a6c-660af6df5385}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gtest\include\gtest">
+      <UniqueIdentifier>{306e582d-3e14-47bf-be4e-c17465962ae5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gtest\include\gtest\internal">
+      <UniqueIdentifier>{732fad06-30ba-49ca-a4de-542bb5fe3c5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gtest\lib\googletest">
+      <UniqueIdentifier>{abd45d76-b296-43f3-badb-ad3a09bd54ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gtest\lib\googletest\win32">
+      <UniqueIdentifier>{994d1d5a-6648-4623-8c3b-494715658fe4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gtest\lib\googletest\x64">
+      <UniqueIdentifier>{c503f1c8-1535-4eec-96cd-9d7eb6cb83ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gtest\lib\googletest\x64\Debug">
+      <UniqueIdentifier>{7765bd22-5926-474e-851c-fec0230ff0aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gtest\lib\googletest\x64\Release">
+      <UniqueIdentifier>{fcbe1fe9-71a8-4d1b-9975-8947ae7da1ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gtest\lib\googletest\win32\Debug">
+      <UniqueIdentifier>{a127c8be-a43b-4d01-901e-433b6ba8c131}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gtest\lib\googletest\win32\Release">
+      <UniqueIdentifier>{4ec1a943-4a41-4dcc-ab44-39a051ae38eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="templates">
+      <UniqueIdentifier>{8dbc8f08-797b-4ecc-85f3-9c2aaf009591}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="templates\patterns">
+      <UniqueIdentifier>{ed327b62-b2e9-4c07-b6cc-5e8396905be0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="templates\patterns\BaseLine_pattern">
+      <UniqueIdentifier>{743e5eba-9bcd-4ed3-8c39-7fdfada9e2c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="templates\patterns\OsScan_pattern">
+      <UniqueIdentifier>{bbd340ec-49db-4d35-b668-3fd9ada32be8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="templates\patterns\WPScan_pattern">
+      <UniqueIdentifier>{ccc8e3ec-65e0-4c31-ac32-bef38781b10d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="templates\configfiles">
+      <UniqueIdentifier>{6d3bbf2b-4da6-44b7-8b89-4f1a00849f56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="templates\configfiles\tomcat">
+      <UniqueIdentifier>{61ee7516-2530-44cf-91cc-cb3b18d81f48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="templates\configfiles\nginx">
+      <UniqueIdentifier>{4fe9201d-312d-4434-8d84-45f7b0389813}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="templates\configfiles\iis">
+      <UniqueIdentifier>{9a95036a-6573-46a4-a108-3323c81a7b2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TestCase">
+      <UniqueIdentifier>{2c36d722-9df3-441e-8b1a-8ee203992feb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="templates\configfiles\apache">
+      <UniqueIdentifier>{5ffe0484-34df-4b29-9904-c1f70a6b29ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="templates\configfiles\apache\apache_sub">
+      <UniqueIdentifier>{8b711135-3171-4b61-99e4-b0489be7f2c5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="gtest\include\gtest\internal\gtest-param-util-generated.h.pump">
+      <Filter>gtest\include\gtest\internal</Filter>
+    </None>
+    <None Include="gtest\include\gtest\internal\gtest-tuple.h.pump">
+      <Filter>gtest\include\gtest\internal</Filter>
+    </None>
+    <None Include="gtest\include\gtest\internal\gtest-type-util.h.pump">
+      <Filter>gtest\include\gtest\internal</Filter>
+    </None>
+    <None Include="gtest\include\gtest\gtest-param-test.h.pump">
+      <Filter>gtest\include\gtest</Filter>
+    </None>
+    <None Include="Patterns\BaseLine_pattern\win_baseline_p-b36.zip">
+      <Filter>templates\patterns\BaseLine_pattern</Filter>
+    </None>
+    <None Include="Patterns\WPScan_pattern\weakpwd_p-b2.zip">
+      <Filter>templates\patterns\WPScan_pattern</Filter>
+    </None>
+    <None Include="Patterns\OsScan_pattern\win_vuln_os_p-b14.zip">
+      <Filter>templates\patterns\OsScan_pattern</Filter>
+    </None>
+    <None Include="templates\configfiles\iis\applicationHost.config">
+      <Filter>templates\configfiles\iis</Filter>
+    </None>
+    <None Include="templates\configfiles\nginx\nginx.conf">
+      <Filter>templates\configfiles\nginx</Filter>
+    </None>
+    <None Include="templates\configfiles\apache\httpd.conf">
+      <Filter>templates\configfiles\apache</Filter>
+    </None>
+    <None Include="templates\configfiles\apache\httpd_uncorrected.conf">
+      <Filter>templates\configfiles\apache</Filter>
+    </None>
+    <None Include="templates\configfiles\apache\ssl.conf">
+      <Filter>templates\configfiles\apache</Filter>
+    </None>
+    <None Include="templates\configfiles\apache\apache_sub\apacheSub01.conf">
+      <Filter>templates\configfiles\apache\apache_sub</Filter>
+    </None>
+    <None Include="templates\configfiles\apache\apache_sub\apacheSub02.conf">
+      <Filter>templates\configfiles\apache\apache_sub</Filter>
+    </None>
+    <None Include="templates\configfiles\nginx\nginx_uncorrected.conf">
+      <Filter>templates\configfiles\nginx</Filter>
+    </None>
+    <None Include="templates\configfiles\nginx\nginxtest.conf">
+      <Filter>templates\configfiles\nginx</Filter>
+    </None>
+    <None Include="templates\configfiles\nginx\nginxtest_uncorrected.conf">
+      <Filter>templates\configfiles\nginx</Filter>
+    </None>
+    <None Include="templates\configfiles\nginx\testnx.conf">
+      <Filter>templates\configfiles\nginx</Filter>
+    </None>
+    <None Include="templates\configfiles\nginx\testnx_uncorrected.conf">
+      <Filter>templates\configfiles\nginx</Filter>
+    </None>
+    <None Include="templates\configfiles\nginx\no_server.conf">
+      <Filter>templates\configfiles\nginx</Filter>
+    </None>
+    <None Include="templates\configfiles\nginx\nx_http.conf">
+      <Filter>templates\configfiles\nginx</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="gtest\lib\googletest\win32\Debug\gtest.lib">
+      <Filter>gtest\lib\googletest\win32\Debug</Filter>
+    </Library>
+    <Library Include="gtest\lib\googletest\win32\Release\gtest.lib">
+      <Filter>gtest\lib\googletest\win32\Release</Filter>
+    </Library>
+    <Library Include="gtest\lib\googletest\x64\Debug\gtest.lib">
+      <Filter>gtest\lib\googletest\x64\Debug</Filter>
+    </Library>
+    <Library Include="gtest\lib\googletest\x64\Release\gtest.lib">
+      <Filter>gtest\lib\googletest\x64\Release</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="templates\configfiles\tomcat\server.xml">
+      <Filter>templates\configfiles\tomcat</Filter>
+    </Xml>
+  </ItemGroup>
+</Project>

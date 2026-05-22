@@ -1,0 +1,10 @@
+Encrypt工具包含了对原始pattern数据的压缩，加密，MD5校验，产生的pattern任何一个字节被恶意篡改都会导致解密失败。
+1. pattern加密命令如下:(Encrypt从pattern source中获取pattern版本号，产生加密后的文件名)
+    Encrypt.exe -e original_file
+    例如:
+    Encrypt.exe -e vared8p.lua
+
+1. pattern解密命令如下:
+    Encrypt.exe -d encrypted_file original_file
+    例如:
+    Encrypt.exe -d vared8p$1000.0001 test.lua

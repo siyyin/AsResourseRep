@@ -1,0 +1,3088 @@
+{
+    "APP": {
+        "add": [
+            {
+                "application": "",
+                "applicationversion": "",
+                "filename": "SQLiteSpy.exe",
+                "fileversion": "",
+                "lastuse": 1681459193,
+                "pid": 26316,
+                "sha1": "f68d7eb5744941222ddc848d2dc554cd8fb936f7",
+                "vendor": ""
+            },
+            {
+                "application": "Feishu",
+                "applicationversion": "6.0.0.55",
+                "filename": "Feishu.exe",
+                "fileversion": "6.0.0.55",
+                "lastuse": 1681459193,
+                "pid": 1280,
+                "sha1": "952e56a15f0470af3256184d51a7ee18ea0d9bdf",
+                "vendor": "Beijing Feishu Technology Co., Ltd."
+            },
+            {
+                "application": "Java(TM) Platform SE 11.0.16",
+                "applicationversion": "11.0.16.0",
+                "filename": "java.exe",
+                "fileversion": "11.0.16.0",
+                "lastuse": 1681459193,
+                "pid": 28632,
+                "sha1": "06a69b704693318a18ee6cf2cab426f953f86233",
+                "vendor": "Oracle Corporation"
+            },
+            {
+                "application": "Microsoft® Visual Studio®",
+                "applicationversion": "17.0.33424.131",
+                "filename": "vcpkgsrv.exe",
+                "fileversion": "17.0.33424.131",
+                "lastuse": 1681459193,
+                "pid": 27540,
+                "sha1": "fe7255bfb2a70011903fc5f68d3295945d576291",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1566",
+                "filename": "conhost.exe",
+                "fileversion": "10.0.19041.1566",
+                "lastuse": 1681459193,
+                "pid": 6808,
+                "sha1": "52a7274a0b4f9493632060fe25993a2ef24fe827",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1682",
+                "filename": "smartscreen.exe",
+                "fileversion": "10.0.19041.1682",
+                "lastuse": 1681459193,
+                "pid": 30508,
+                "sha1": "ee7f56cd24aebe2c245871040462669b277832c2",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.546",
+                "filename": "WmiPrvSE.exe",
+                "fileversion": "10.0.19041.546",
+                "lastuse": 1681459193,
+                "pid": 18360,
+                "sha1": "3ea7cc066317ac45f963c2227c4c7c50aa16eb7c",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Windows® Search",
+                "applicationversion": "7.0.19041.1741",
+                "filename": "SearchFilterHost.exe",
+                "fileversion": "7.0.19041.1741",
+                "lastuse": 1681459193,
+                "pid": 26164,
+                "sha1": "4bdf2c4be06500777262168c0642741415635c4b",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Windows® Search",
+                "applicationversion": "7.0.19041.1741",
+                "filename": "SearchProtocolHost.exe",
+                "fileversion": "7.0.19041.1741",
+                "lastuse": 1681459193,
+                "pid": 30124,
+                "sha1": "4eb07edb81ab29e0fb022ab1974fa485761d0f12",
+                "vendor": "Microsoft Corporation"
+            }
+        ],
+        "del": [
+            {
+                "application": "Feishu",
+                "applicationversion": "6.0.0.55",
+                "filename": "Feishu.exe",
+                "fileversion": "6.0.0.55",
+                "lastuse": 1681458761,
+                "pid": 27620,
+                "sha1": "952e56a15f0470af3256184d51a7ee18ea0d9bdf",
+                "vendor": "Beijing Feishu Technology Co., Ltd."
+            },
+            {
+                "application": "Microsoft® Visual Studio®",
+                "applicationversion": "17.0.33424.131",
+                "filename": "vcpkgsrv.exe",
+                "fileversion": "17.0.33424.131",
+                "lastuse": 1681458761,
+                "pid": 29492,
+                "sha1": "fe7255bfb2a70011903fc5f68d3295945d576291",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1566",
+                "filename": "conhost.exe",
+                "fileversion": "10.0.19041.1566",
+                "lastuse": 1681458761,
+                "pid": 27752,
+                "sha1": "52a7274a0b4f9493632060fe25993a2ef24fe827",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1682",
+                "filename": "smartscreen.exe",
+                "fileversion": "10.0.19041.1682",
+                "lastuse": 1681458761,
+                "pid": 26064,
+                "sha1": "ee7f56cd24aebe2c245871040462669b277832c2",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.546",
+                "filename": "WmiPrvSE.exe",
+                "fileversion": "10.0.19041.546",
+                "lastuse": 1681458761,
+                "pid": 13672,
+                "sha1": "3ea7cc066317ac45f963c2227c4c7c50aa16eb7c",
+                "vendor": "Microsoft Corporation"
+            }
+        ],
+        "reset": 0,
+        "update": [
+            {
+                "application": "",
+                "applicationversion": "",
+                "filename": "StartMenuExperienceHost.exe",
+                "fileversion": "",
+                "lastuse": 1681459179,
+                "pid": 12048,
+                "sha1": "1f4b2b8376ff1a4d307b2b349aaee42a4d90f8d4",
+                "vendor": ""
+            },
+            {
+                "application": "",
+                "applicationversion": "",
+                "filename": "OpenConsole.exe",
+                "fileversion": "",
+                "lastuse": 1681459186,
+                "pid": 12444,
+                "sha1": "bc9f490d697d62e2176430ea706390376adee94e",
+                "vendor": ""
+            },
+            {
+                "application": "Apache HTTP Server",
+                "applicationversion": "2.4.55",
+                "filename": "httpd.exe",
+                "fileversion": "2.4.55.0",
+                "lastuse": 1681459179,
+                "pid": 8504,
+                "sha1": "9be0394bc9b2b34558ac73a2c52ddd70885e2c83",
+                "vendor": "Apache Software Foundation"
+            },
+            {
+                "application": "AsiaInfo Security Host Hardening Agent",
+                "applicationversion": "2.0.1.7",
+                "filename": "hra.exe",
+                "fileversion": "2.0.1.7",
+                "lastuse": 1681459179,
+                "pid": 6104,
+                "sha1": "c811584e98af644b570e1b666dd5193e7c1264ab",
+                "vendor": "AsiaInfo Security Inc."
+            },
+            {
+                "application": "AsiaInfo Security Host Hardening Agent",
+                "applicationversion": "2.0.2.13",
+                "filename": "hra_test.exe",
+                "fileversion": "2.0.2.13",
+                "lastuse": 1681459193,
+                "pid": 21000,
+                "sha1": "87606b5d109502e615b252d30c1eec86f57db08d",
+                "vendor": "AsiaInfo Security Inc."
+            },
+            {
+                "application": "AsiaInfo Security Host Hardening Agent",
+                "applicationversion": "2.0.2.13",
+                "filename": "hra.exe",
+                "fileversion": "2.0.2.13",
+                "lastuse": 1681459193,
+                "pid": 28300,
+                "sha1": "0373809aceb1770c59565a04f664a54e187b793c",
+                "vendor": "AsiaInfo Security Inc."
+            },
+            {
+                "application": "Asiainfo Security AEGIS",
+                "applicationversion": "2.98",
+                "filename": "TMBMSRV.exe",
+                "fileversion": "2.98.0.1855",
+                "lastuse": 1681459179,
+                "pid": 11388,
+                "sha1": "fd0bdc812bde922d60f48f584f53903d9e736491",
+                "vendor": "Asiainfo Security"
+            },
+            {
+                "application": "Asiainfo Security OfficeScan",
+                "applicationversion": "16.0",
+                "filename": "TmCCSF.exe",
+                "fileversion": "16.0.0.60",
+                "lastuse": 1681459179,
+                "pid": 19828,
+                "sha1": "6e2ade33590efa8ea9897ef5d2f5ac46aa1aed45",
+                "vendor": "Asiainfo Security"
+            },
+            {
+                "application": "Asiainfo Security OfficeScan",
+                "applicationversion": "16.0",
+                "filename": "TmSSClient.exe",
+                "fileversion": "16.0.0.60",
+                "lastuse": 1681459179,
+                "pid": 20208,
+                "sha1": "c1af9ff304078f55f5ae215c50d3be8c60203d3a",
+                "vendor": "Asiainfo Security"
+            },
+            {
+                "application": "Asiainfo Security OfficeScan",
+                "applicationversion": "16.0",
+                "filename": "NTRTScan.exe",
+                "fileversion": "16.0.0.6193",
+                "lastuse": 1681459179,
+                "pid": 6552,
+                "sha1": "b9fe639557777a4237d2495b3fe5b1d0444d9ac7",
+                "vendor": "asiainfo_company_name"
+            },
+            {
+                "application": "Asiainfo Security OfficeScan",
+                "applicationversion": "16.0",
+                "filename": "TmListen.exe",
+                "fileversion": "16.0.0.6193",
+                "lastuse": 1681459179,
+                "pid": 8260,
+                "sha1": "82739931505d1909d9408ab73361cb9d8ba7b054",
+                "vendor": "asiainfo_company_name"
+            },
+            {
+                "application": "Asiainfo Security",
+                "applicationversion": "trend_product_version",
+                "filename": "CNTAoSMgr.exe",
+                "fileversion": "2.3.0.6184",
+                "lastuse": 1681459179,
+                "pid": 15056,
+                "sha1": "4df19b2efa6d6bc2a3c076eaf1cc492aa1e30345",
+                "vendor": "Asiainfo Security"
+            },
+            {
+                "application": "DAXAPI",
+                "applicationversion": "3.30307.371.0",
+                "filename": "DAX3API.exe",
+                "fileversion": "3.30307.371.0",
+                "lastuse": 1681459179,
+                "pid": 11132,
+                "sha1": "89cbe2468adf5ac87a50307cf9cb9735b6e705e4",
+                "vendor": "Dolby Laboratories"
+            },
+            {
+                "application": "DAXAPI",
+                "applicationversion": "3.30307.371.0",
+                "filename": "DAX3API.exe",
+                "fileversion": "3.30307.371.0",
+                "lastuse": 1681459179,
+                "pid": 5904,
+                "sha1": "89cbe2468adf5ac87a50307cf9cb9735b6e705e4",
+                "vendor": "Dolby Laboratories"
+            },
+            {
+                "application": "ELAN Smart-Pad",
+                "applicationversion": "11.11.21.12",
+                "filename": "ETDService.exe",
+                "fileversion": "11.11.21.12",
+                "lastuse": 1681459178,
+                "pid": 4172,
+                "sha1": "25e8e3d079604be51fea0620b09babfeb1e2c501",
+                "vendor": "ELAN Microelectronics Corp."
+            },
+            {
+                "application": "ELAN Smart-Pad",
+                "applicationversion": "24.0.21.17",
+                "filename": "ETDCtrl.exe",
+                "fileversion": "24.0.21.17",
+                "lastuse": 1681459179,
+                "pid": 10480,
+                "sha1": "7ae5b51d0a5835954d85aa36eef4ebbcf558e90e",
+                "vendor": "ELAN Microelectronics Corp."
+            },
+            {
+                "application": "Entertainment Platform",
+                "applicationversion": "10.22091.100300000-2209",
+                "filename": "Video.UI.exe",
+                "fileversion": "10.22091.1003.0",
+                "lastuse": 1681459186,
+                "pid": 10560,
+                "sha1": "c885b06c21e6883d9290dd627ff679d6ec676849",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Everything",
+                "applicationversion": "1.4.1.1002",
+                "filename": "Everything.exe",
+                "fileversion": "1.4.1.1002",
+                "lastuse": 1681459179,
+                "pid": 9108,
+                "sha1": "9a94547420cc51472851ec69e7968965e8d3c846",
+                "vendor": "voidtools"
+            },
+            {
+                "application": "FMAPP Application",
+                "applicationversion": "1.64.0.15",
+                "filename": "FMAPP.exe",
+                "fileversion": "1.64.0.15",
+                "lastuse": 1681459193,
+                "pid": 5896,
+                "sha1": "9477a74aedf0d12535a00a0b2d121c98b96ea0ac",
+                "vendor": ""
+            },
+            {
+                "application": "Fn and function keys",
+                "applicationversion": "9.1.0.1",
+                "filename": "tphkload.exe",
+                "fileversion": "9.1.0.0",
+                "lastuse": 1681459179,
+                "pid": 6968,
+                "sha1": "c9b1596af800e7b9a92180ed7fbd16b900aa1184",
+                "vendor": "Lenovo Group Limited"
+            },
+            {
+                "application": "Fortemedia APO Control Service",
+                "applicationversion": "0.1.1.77",
+                "filename": "FMService64.exe",
+                "fileversion": "0.1.1.77",
+                "lastuse": 1681459179,
+                "pid": 6264,
+                "sha1": "3cd44e782b9c133729ea4d9321cf15b123bb0be8",
+                "vendor": "Fortemedia"
+            },
+            {
+                "application": "IGCC Service",
+                "applicationversion": "1.0.4169.0",
+                "filename": "OneApp.IGCC.WinService.exe",
+                "fileversion": "1.0.4169.0",
+                "lastuse": 1681459179,
+                "pid": 6340,
+                "sha1": "33ec942dc6b852d63cb028d5e8da57d5b223821b",
+                "vendor": "Intel Corporation"
+            },
+            {
+                "application": "Intel HD Graphics Drivers for Windows(R)",
+                "applicationversion": "31.0.101.3889",
+                "filename": "IntelCpHDCPSvc.exe",
+                "fileversion": "31.0.101.3889",
+                "lastuse": 1681459179,
+                "pid": 3576,
+                "sha1": "1674ceaaeababc2e2d2d2a316b7bf5cd65a6d407",
+                "vendor": "Intel Corporation"
+            },
+            {
+                "application": "Intel(R) Common User Interface",
+                "applicationversion": "6.15.101.3889",
+                "filename": "igfxEMN.exe",
+                "fileversion": "6.15.101.3889",
+                "lastuse": 1681459179,
+                "pid": 11988,
+                "sha1": "07f18da06e62c43e537bf728269387d936ec484d",
+                "vendor": "Intel Corporation"
+            },
+            {
+                "application": "Intel(R) Common User Interface",
+                "applicationversion": "6.15.101.3889",
+                "filename": "igfxextN.exe",
+                "fileversion": "6.15.101.3889",
+                "lastuse": 1681459179,
+                "pid": 12084,
+                "sha1": "401434f9d0dba9a2b09567cb867a4f147a39a41f",
+                "vendor": "Intel Corporation"
+            },
+            {
+                "application": "Intel(R) Common User Interface",
+                "applicationversion": "6.15.101.3889",
+                "filename": "igfxCUIServiceN.exe",
+                "fileversion": "6.15.101.3889",
+                "lastuse": 1681459179,
+                "pid": 4464,
+                "sha1": "18e99d65019a6179aba5d35c2ac203bd987e5a00",
+                "vendor": "Intel Corporation"
+            },
+            {
+                "application": "Intel(R) Dynamic Application Loader Host Interface",
+                "applicationversion": "1.41.2021.0121",
+                "filename": "jhi_service.exe",
+                "fileversion": "1.41.2021.121",
+                "lastuse": 1681459179,
+                "pid": 6468,
+                "sha1": "28544df0e9f27d79d433bd0819a26ed2441ce47a",
+                "vendor": "Intel Corporation"
+            },
+            {
+                "application": "Intel(R) Dynamic Tuning",
+                "applicationversion": "8.7.10700.22502",
+                "filename": "esif_uf.exe",
+                "fileversion": "8.7.10700.22502",
+                "lastuse": 1681459179,
+                "pid": 6288,
+                "sha1": "8f5bcf1ec7e77fb64ff54b8b6d6d410d58a63244",
+                "vendor": "Intel Corporation"
+            },
+            {
+                "application": "Intel(R) Management Engine WMI Provider Registration",
+                "applicationversion": "2130.1.15.0",
+                "filename": "WMIRegistrationService.exe",
+                "fileversion": "2130.1.15.0",
+                "lastuse": 1681459179,
+                "pid": 6688,
+                "sha1": "146cf58ddd5558181ffaedb202869cc08a25a6b8",
+                "vendor": "Intel Corporation"
+            },
+            {
+                "application": "Intel(R) Management and Security Application Local Management Service",
+                "applicationversion": "2130.1.16.1        ",
+                "filename": "LMS.exe",
+                "fileversion": "2130.1.16.0",
+                "lastuse": 1681459179,
+                "pid": 6488,
+                "sha1": "3f41264178761709cc6ebca7c466489603015f39",
+                "vendor": "Intel Corporation"
+            },
+            {
+                "application": "IntelAudioService",
+                "applicationversion": "1.0.2251.0",
+                "filename": "IntelAudioService.exe",
+                "fileversion": "1.0.2251.0",
+                "lastuse": 1681459179,
+                "pid": 6428,
+                "sha1": "dbbfe7d4c6097b67ca448f27a01a5808e2e1f5c0",
+                "vendor": "Intel"
+            },
+            {
+                "application": "Lenovo Intelligent Thermal Service",
+                "applicationversion": "2.0",
+                "filename": "LITSSvc.exe",
+                "fileversion": "2.0.431.0",
+                "lastuse": 1681459178,
+                "pid": 3840,
+                "sha1": "b0832b15d07b8e464946b64a0aa8b6d8adce940c",
+                "vendor": "Lenovo."
+            },
+            {
+                "application": "Lenovo Internet Software Framework",
+                "applicationversion": "1.0.0.8051",
+                "filename": "LenovoInternetSoftwareFramework.exe",
+                "fileversion": "1.0.0.8051",
+                "lastuse": 1681459179,
+                "pid": 12676,
+                "sha1": "784bb01995a3a98fbd27efbb0393c862a37001ca",
+                "vendor": "联想（北京）有限公司"
+            },
+            {
+                "application": "Lenovo Internet Software Framework",
+                "applicationversion": "1.0.0.8051",
+                "filename": "LISFService.exe",
+                "fileversion": "1.0.0.8051",
+                "lastuse": 1681459179,
+                "pid": 6456,
+                "sha1": "f1c1a2e966b55aab194bb8aa7a0cae32b6875415",
+                "vendor": "联想（北京）有限公司"
+            },
+            {
+                "application": "Lenovo Power Management Service",
+                "applicationversion": "1.68",
+                "filename": "ibmpmsvc.exe",
+                "fileversion": "1.68.37.0",
+                "lastuse": 1681459178,
+                "pid": 3828,
+                "sha1": "ce235043f17f02aeffe8fcb87d38492ced932a05",
+                "vendor": "Lenovo"
+            },
+            {
+                "application": "Lenovo Power Manager",
+                "applicationversion": "10.0.150.0",
+                "filename": "PowerMgr.exe",
+                "fileversion": "10.0.150.0",
+                "lastuse": 1681459179,
+                "pid": 12008,
+                "sha1": "f57cddb46845331177f993b5b36618f63f4cf2ba",
+                "vendor": "Lenovo"
+            },
+            {
+                "application": "Lenovo Smart Standby",
+                "applicationversion": "4.1.50.0",
+                "filename": "SmartStandby.exe",
+                "fileversion": "4.1.50.0",
+                "lastuse": 1681459179,
+                "pid": 6744,
+                "sha1": "913deab24d81c65184d881195b87cb91dc76dcd1",
+                "vendor": "Lenovo"
+            },
+            {
+                "application": "Lenovo.Modern.ImController.PluginHost",
+                "applicationversion": "1.2.0.11",
+                "filename": "Lenovo.Modern.ImController.PluginHost.Device.exe",
+                "fileversion": "1.2.0.11",
+                "lastuse": 1681459186,
+                "pid": 7960,
+                "sha1": "f060ec082c14be5542865848d6fde2425786dafc",
+                "vendor": "Lenovo Group Ltd."
+            },
+            {
+                "application": "Lenovo.Modern.ImController",
+                "applicationversion": "1.2.0.11",
+                "filename": "Lenovo.Modern.ImController.exe",
+                "fileversion": "1.2.0.11",
+                "lastuse": 1681459179,
+                "pid": 6388,
+                "sha1": "c364f32c9df2fb147131618b9793346ae5d8f745",
+                "vendor": "Lenovo Group Ltd."
+            },
+            {
+                "application": "Microsoft Calculator",
+                "applicationversion": "11.2210.0.0",
+                "filename": "CalculatorApp.exe",
+                "fileversion": "11.2210.0.0",
+                "lastuse": 1681459179,
+                "pid": 2880,
+                "sha1": "60af2a524ad6fa8d07aa4b25ff6620a939afcfd2",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft Edge",
+                "applicationversion": "112.0.1722.39",
+                "filename": "msedge.exe",
+                "fileversion": "112.0.1722.39",
+                "lastuse": 1681459193,
+                "pid": 3148,
+                "sha1": "5e80a17a23e53d517ae7c3a77eed29122af8e871",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft Photos",
+                "applicationversion": "2023.10030.700300000-release2023.03",
+                "filename": "Microsoft.Photos.exe",
+                "fileversion": "2023.10030.7003.0",
+                "lastuse": 1681459186,
+                "pid": 14536,
+                "sha1": "4fd870a7cfeb6d09eff3abbdf88c3903a62f60f4",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft SQL Server",
+                "applicationversion": "11.0.2100.60",
+                "filename": "sqlwriter.exe",
+                "fileversion": "2011.110.2100.60",
+                "lastuse": 1681459179,
+                "pid": 6960,
+                "sha1": "15c0a61d59e89e4be2ccd715b06bd6a0df70761d",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft.ServiceHub.Controller",
+                "applicationversion": "4.1.3102+6c90f6be71.RR",
+                "filename": "Microsoft.ServiceHub.Controller.exe",
+                "fileversion": "4.1.3102.27792",
+                "lastuse": 1681459179,
+                "pid": 8688,
+                "sha1": "d1b23a5ec68e525c1de464baab39d0b12df4b2ec",
+                "vendor": "Microsoft"
+            },
+            {
+                "application": "Microsoft® Visual Studio®",
+                "applicationversion": "17.0.33326.253",
+                "filename": "vshost.exe",
+                "fileversion": "17.0.33326.253",
+                "lastuse": 1681459183,
+                "pid": 15524,
+                "sha1": "93a8ae1f33845ed42125f59abb05ad4603bd6e5d",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Visual Studio®",
+                "applicationversion": "17.0.33413.361",
+                "filename": "PerfWatson2.exe",
+                "fileversion": "17.0.33413.361",
+                "lastuse": 1681459179,
+                "pid": 2384,
+                "sha1": "dfc573cbb3510aab65979bb05ccd76f4938b161a",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Visual Studio®",
+                "applicationversion": "17.5.33502.453",
+                "filename": "devenv.exe",
+                "fileversion": "17.5.33502.453",
+                "lastuse": 1681459179,
+                "pid": 18036,
+                "sha1": "9d012a2e95961336c5f106933e3bf004c6465ae0",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1202",
+                "filename": "Taskmgr.exe",
+                "fileversion": "10.0.19041.1202",
+                "lastuse": 1681459193,
+                "pid": 15428,
+                "sha1": "7a7f5e991ddeaf73e15a0fdcb5c999c0248a2fa4",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1320",
+                "filename": "WmiApSrv.exe",
+                "fileversion": "10.0.19041.1320",
+                "lastuse": 1681459179,
+                "pid": 7136,
+                "sha1": "b04be2bc0273784270d04f53f2a064507df21f73",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1466",
+                "filename": "LsaIso.exe",
+                "fileversion": "10.0.19041.1466",
+                "lastuse": 1681459178,
+                "pid": 1948,
+                "sha1": "13929ad3e0ab7c77cf9d7e6ef955df3a795d4c78",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1503",
+                "filename": "taskhostw.exe",
+                "fileversion": "10.0.19041.1503",
+                "lastuse": 1681459179,
+                "pid": 12144,
+                "sha1": "3175a68fe10c2fd14beba8004d9d2243de8b393d",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1503",
+                "filename": "audiodg.exe",
+                "fileversion": "10.0.19041.1503",
+                "lastuse": 1681459193,
+                "pid": 16500,
+                "sha1": "59954a4354254606919ae890dcf5c3792d65281b",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1566",
+                "filename": "svchost.exe",
+                "fileversion": "10.0.19041.1566",
+                "lastuse": 1681459192,
+                "pid": 27036,
+                "sha1": "1f912d4bec338ef10b7c9f19976286f8acc4eb97",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1566",
+                "filename": "SystemSettings.exe",
+                "fileversion": "10.0.19041.1566",
+                "lastuse": 1681459179,
+                "pid": 6280,
+                "sha1": "27b54d470bca16fd02836564811f5b7a13702995",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1586",
+                "filename": "lsass.exe",
+                "fileversion": "10.0.19041.1586",
+                "lastuse": 1681459178,
+                "pid": 1956,
+                "sha1": "65efbd61f80291ab32ff9799a32b289f21fa1d47",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1620",
+                "filename": "ShellExperienceHost.exe",
+                "fileversion": "10.0.19041.1620",
+                "lastuse": 1681459179,
+                "pid": 14432,
+                "sha1": "23a5dbb99053205223c70fac2951c7d26aab5384",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1620",
+                "filename": "fontdrvhost.exe",
+                "fileversion": "10.0.19041.1620",
+                "lastuse": 1681459178,
+                "pid": 2308,
+                "sha1": "5efb3f97342ba195424134f28f977da9e0d6aa91",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1620",
+                "filename": "WUDFHost.exe",
+                "fileversion": "10.0.19041.1620",
+                "lastuse": 1681459179,
+                "pid": 5100,
+                "sha1": "8f7174af67ca447b3f098f125ad96ea6fb1e63fc",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1741",
+                "filename": "SettingSyncHost.exe",
+                "fileversion": "10.0.19041.1741",
+                "lastuse": 1681459179,
+                "pid": 12352,
+                "sha1": "ab4514a963acef7c5f9614f0531a8dd7c6eefa15",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1741",
+                "filename": "SearchApp.exe",
+                "fileversion": "10.0.19041.1741",
+                "lastuse": 1681459179,
+                "pid": 13480,
+                "sha1": "b70b70574acf3b3bb8ace0ba8954014e8b6788fa",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1741",
+                "filename": "MoUsoCoreWorker.exe",
+                "fileversion": "10.0.19041.1741",
+                "lastuse": 1681459192,
+                "pid": 19276,
+                "sha1": "f326b5d9ba1dbbdba2442d228a056e38b20fd775",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1741",
+                "filename": "winlogon.exe",
+                "fileversion": "10.0.19041.1741",
+                "lastuse": 1681459178,
+                "pid": 2204,
+                "sha1": "daf441252a9303d434fc345bb44dd5653cd8bb02",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1741",
+                "filename": "spoolsv.exe",
+                "fileversion": "10.0.19041.1741",
+                "lastuse": 1681459179,
+                "pid": 5976,
+                "sha1": "cdeb03085c8871a04bea33cc38421bc3d8e9e046",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1741",
+                "filename": "LockApp.exe",
+                "fileversion": "10.0.19041.1741",
+                "lastuse": 1681459186,
+                "pid": 9908,
+                "sha1": "7265161192d2718ddc817a3b67d4b89e649b1ca8",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1766",
+                "filename": "explorer.exe",
+                "fileversion": "10.0.19041.1766",
+                "lastuse": 1681459179,
+                "pid": 11820,
+                "sha1": "799ab02945edb9a37a42a3f742de73165f4a9665",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1",
+                "filename": "ctfmon.exe",
+                "fileversion": "10.0.19041.1",
+                "lastuse": 1681459179,
+                "pid": 11620,
+                "sha1": "abb864e1911c59f785b0e1822701b9a5ab31ba1e",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1",
+                "filename": "SecurityHealthSystray.exe",
+                "fileversion": "10.0.19041.1",
+                "lastuse": 1681459179,
+                "pid": 5776,
+                "sha1": "d79d21f4d6741f83fb98fdcf8d06fe8c5d78a799",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1",
+                "filename": "wlanext.exe",
+                "fileversion": "10.0.19041.1",
+                "lastuse": 1681459179,
+                "pid": 5792,
+                "sha1": "0cbf3f61c88e7a944294d8e577011f44dd99a9b4",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1",
+                "filename": "dasHost.exe",
+                "fileversion": "10.0.19041.1",
+                "lastuse": 1681459179,
+                "pid": 7336,
+                "sha1": "a2aabf0b8ab7ba5be9516b07dd79ebd2f67bc8f2",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.1",
+                "filename": "Locator.exe",
+                "fileversion": "10.0.19041.1",
+                "lastuse": 1681459179,
+                "pid": 8996,
+                "sha1": "defe4561f0a6b279cacc18e8b92728046709110c",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.2541",
+                "filename": "uhssvc.exe",
+                "fileversion": "10.0.19041.2541",
+                "lastuse": 1681459179,
+                "pid": 17688,
+                "sha1": "72e9bb5021b5fcf39a83ebf35b669e117dd61d03",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.546",
+                "filename": "dllhost.exe",
+                "fileversion": "10.0.19041.546",
+                "lastuse": 1681459179,
+                "pid": 11564,
+                "sha1": "2ce12a317bebf8293f3544433a55d972a5967996",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.546",
+                "filename": "powershell.exe",
+                "fileversion": "10.0.19041.546",
+                "lastuse": 1681459186,
+                "pid": 20816,
+                "sha1": "f43d9bb316e30ae1a3494ac5b0624f6bea1bf054",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.746",
+                "filename": "sihost.exe",
+                "fileversion": "10.0.19041.746",
+                "lastuse": 1681459179,
+                "pid": 11784,
+                "sha1": "5310ba14a05256e4d93e0b04338f53b4e1d680cb",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.746",
+                "filename": "cmd.exe",
+                "fileversion": "10.0.19041.746",
+                "lastuse": 1681459193,
+                "pid": 11800,
+                "sha1": "f1efb0fddc156e4c61c5f78a54700e4e7984d55d",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.746",
+                "filename": "ApplicationFrameHost.exe",
+                "fileversion": "10.0.19041.746",
+                "lastuse": 1681459179,
+                "pid": 19492,
+                "sha1": "f79fc9e0ab066cad530b949c2153c532a5223156",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.746",
+                "filename": "dwm.exe",
+                "fileversion": "10.0.19041.746",
+                "lastuse": 1681459178,
+                "pid": 2452,
+                "sha1": "f92f8b7439ce1de4c297046ed1d3ff9f20bc97af",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.746",
+                "filename": "RuntimeBroker.exe",
+                "fileversion": "10.0.19041.746",
+                "lastuse": 1681459186,
+                "pid": 25420,
+                "sha1": "ab8539ef6b2a93ff9589dec4b34a0257b6296c92",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.746",
+                "filename": "ChsIME.exe",
+                "fileversion": "10.0.19041.746",
+                "lastuse": 1681459179,
+                "pid": 6928,
+                "sha1": "4afef38a3e2daf2fef24d3b3f4fcfeaec8dd176a",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "10.0.19041.746",
+                "filename": "CompPkgSrv.exe",
+                "fileversion": "10.0.19041.746",
+                "lastuse": 1681459179,
+                "pid": 8600,
+                "sha1": "a4a1673048b1cdd49a1862f5c384af028e8ced07",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "Microsoft® Windows® Operating System",
+                "applicationversion": "121.9202.4105.0",
+                "filename": "TextInputHost.exe",
+                "fileversion": "121.9202.4105.0",
+                "lastuse": 1681459179,
+                "pid": 14268,
+                "sha1": "aa60d00cd83ec786caf2191da000f5eb4eb60c77",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "NVIDIA Container",
+                "applicationversion": "gcomp_dev 31034323",
+                "filename": "NVDisplay.Container.exe",
+                "fileversion": "1.37.3103.4323",
+                "lastuse": 1681459179,
+                "pid": 5276,
+                "sha1": "7f10699fca2fb996913154d37861fc6f97976000",
+                "vendor": "NVIDIA Corporation"
+            },
+            {
+                "application": "Notepad++",
+                "applicationversion": "8.48",
+                "filename": "notepad++.exe",
+                "fileversion": "8.4.8.0",
+                "lastuse": 1681459193,
+                "pid": 26380,
+                "sha1": "a62602e01a33afc10d1d63ec7642a938f69a9d36",
+                "vendor": "Don HO don.h@free.fr"
+            },
+            {
+                "application": "On Screen Display",
+                "applicationversion": "10,0,0,4",
+                "filename": "tposd.exe",
+                "fileversion": "10.0.0.4",
+                "lastuse": 1681459179,
+                "pid": 11480,
+                "sha1": "da91608ad5d419c1be99ab2b9c7507617e303f16",
+                "vendor": "Lenovo Group Limited"
+            },
+            {
+                "application": "On Screen Display",
+                "applicationversion": "10,2,2,3",
+                "filename": "shtctky.exe",
+                "fileversion": "10.2.2.3",
+                "lastuse": 1681459179,
+                "pid": 11536,
+                "sha1": "cb7b8449fc648b086d3758d66b55598ea4ecdfd3",
+                "vendor": "Lenovo Group Limited"
+            },
+            {
+                "application": "OpenVPN GUI",
+                "applicationversion": "11.10.0.0",
+                "filename": "openvpn-gui.exe",
+                "fileversion": "11.10.0.0",
+                "lastuse": 1681459179,
+                "pid": 16632,
+                "sha1": "9371f2eb5f835228a1cb8700a56088e020e1ee62",
+                "vendor": "OpenVPN GUI"
+            },
+            {
+                "application": "OpenVPN",
+                "applicationversion": "2.4.6.0",
+                "filename": "openvpnserv.exe",
+                "fileversion": "2.4.6.0",
+                "lastuse": 1681459179,
+                "pid": 6596,
+                "sha1": "9caeda7b5505d088d022494b0ac0f1973baea8af",
+                "vendor": "The OpenVPN Project"
+            },
+            {
+                "application": "Realtek HD Audio Universal Service",
+                "applicationversion": "1.1.486.1",
+                "filename": "RtkAudUService64.exe",
+                "fileversion": "1.1.486.1",
+                "lastuse": 1681459179,
+                "pid": 19136,
+                "sha1": "31687278b8745e6b782563fbc439f9d71e975b7c",
+                "vendor": "Realtek Semiconductor"
+            },
+            {
+                "application": "ServiceHub.Host.AnyCPU",
+                "applicationversion": "4.1.3102+6c90f6be71.RR",
+                "filename": "ServiceHub.Host.AnyCPU.exe",
+                "fileversion": "4.1.3102.27792",
+                "lastuse": 1681459185,
+                "pid": 8180,
+                "sha1": "94616adffa68ce736ea6f38cfcefbdb3a47461d8",
+                "vendor": "Microsoft"
+            },
+            {
+                "application": "ServiceHub.Host.AnyCPU",
+                "applicationversion": "4.1.3102.0",
+                "filename": "ServiceHub.VSDetouredHost.exe",
+                "fileversion": "4.1.3102.27792",
+                "lastuse": 1681459179,
+                "pid": 15716,
+                "sha1": "b0fff9c0ffc3729a01abe1ce981961a0a69909f1",
+                "vendor": "Microsoft"
+            },
+            {
+                "application": "ServiceHub.Host.AnyCPU",
+                "applicationversion": "4.1.3102.0",
+                "filename": "ServiceHub.ThreadedWaitDialog.exe",
+                "fileversion": "4.1.3102.27792",
+                "lastuse": 1681459179,
+                "pid": 16868,
+                "sha1": "c2423fbee095fc710571bcd1d39d3209407850df",
+                "vendor": "Microsoft"
+            },
+            {
+                "application": "ServiceHub.Host.AnyCPU",
+                "applicationversion": "4.1.3102.0",
+                "filename": "ServiceHub.SettingsHost.exe",
+                "fileversion": "4.1.3102.27792",
+                "lastuse": 1681459183,
+                "pid": 22100,
+                "sha1": "d5b79c87e9651cfa2eaf75012dd7705dae3c5332",
+                "vendor": "Microsoft"
+            },
+            {
+                "application": "ServiceHub.Host.AnyCPU",
+                "applicationversion": "4.1.3102.0",
+                "filename": "ServiceHub.TestWindowStoreHost.exe",
+                "fileversion": "4.1.3102.27792",
+                "lastuse": 1681459186,
+                "pid": 6876,
+                "sha1": "620a8c1f2ee1fb607ca8b3cd9c2ffe28b51a2914",
+                "vendor": "Microsoft"
+            },
+            {
+                "application": "ServiceHub.Host.dotnet.x64",
+                "applicationversion": "4.1.3102+6c90f6be71.RR",
+                "filename": "ServiceHub.Host.dotnet.x64.exe",
+                "fileversion": "4.1.3102.27792",
+                "lastuse": 1681459183,
+                "pid": 12972,
+                "sha1": "04b516fdcf6f88e356f8091dbb80d398a5db5081",
+                "vendor": "Microsoft"
+            },
+            {
+                "application": "ServiceHub.Host.dotnet.x64",
+                "applicationversion": "4.1.3102.0",
+                "filename": "ServiceHub.IndexingService.exe",
+                "fileversion": "4.1.3102.27792",
+                "lastuse": 1681459179,
+                "pid": 20984,
+                "sha1": "d63f75c284da39e67292a5eb8c8a900f93e3dcc1",
+                "vendor": "Microsoft"
+            },
+            {
+                "application": "ServiceHub.Host.netfx.x64",
+                "applicationversion": "4.1.3102+6c90f6be71.RR",
+                "filename": "ServiceHub.Host.netfx.x64.exe",
+                "fileversion": "4.1.3102.27792",
+                "lastuse": 1681459186,
+                "pid": 1444,
+                "sha1": "ed37cd94ec57326c2172effa731b8083f9194733",
+                "vendor": "Microsoft"
+            },
+            {
+                "application": "ServiceHub.Host.netfx.x64",
+                "applicationversion": "4.1.3102.0",
+                "filename": "ServiceHub.IntellicodeModelService.exe",
+                "fileversion": "4.1.3102.27792",
+                "lastuse": 1681459179,
+                "pid": 21076,
+                "sha1": "8cd10d2e398bec249a3654fb748aec9c1d4360c4",
+                "vendor": "Microsoft"
+            },
+            {
+                "application": "ServiceHub.Host.netfx.x86",
+                "applicationversion": "4.1.3102+6c90f6be71.RR",
+                "filename": "ServiceHub.Host.netfx.x86.exe",
+                "fileversion": "4.1.3102.27792",
+                "lastuse": 1681459179,
+                "pid": 20848,
+                "sha1": "7292b9bb9efb53a19fcc282fbe7b34a55f4a8411",
+                "vendor": "Microsoft"
+            },
+            {
+                "application": "ServiceHub.Host.netfx.x86",
+                "applicationversion": "4.1.3102.0",
+                "filename": "ServiceHub.IdentityHost.exe",
+                "fileversion": "4.1.3102.27792",
+                "lastuse": 1681459179,
+                "pid": 14188,
+                "sha1": "14c53eeceb822932b1cec6288996ca689e4d5b44",
+                "vendor": "Microsoft"
+            },
+            {
+                "application": "Thunderbolt(TM) Shortcut Service",
+                "applicationversion": "181fd40c434ffd600afbfb34b0726d2dd9ed9135",
+                "filename": "TbtP2pShortcutService.exe",
+                "fileversion": "1.41.1325.0",
+                "lastuse": 1681459179,
+                "pid": 7028,
+                "sha1": "fc8f6956627df3c1d92a61a1e4e818e30ee1170e",
+                "vendor": "Intel Corporation"
+            },
+            {
+                "application": "TortoiseGit",
+                "applicationversion": "2.13.0.0",
+                "filename": "TGitCache.exe",
+                "fileversion": "2.13.0.0",
+                "lastuse": 1681459186,
+                "pid": 18724,
+                "sha1": "6ed3aa8d4619d86debabf06eec87e82814fc6053",
+                "vendor": "https://tortoisegit.org/"
+            },
+            {
+                "application": "Universal Device Client",
+                "applicationversion": "22.10.0.7",
+                "filename": "UDClientService.exe",
+                "fileversion": "22.10.0.7",
+                "lastuse": 1681459179,
+                "pid": 7076,
+                "sha1": "d738ed58e572fb53dbe889ce09203da3bed549b6",
+                "vendor": "Lenovo Group Ltd."
+            },
+            {
+                "application": "VMware USB Arbitration Service",
+                "applicationversion": "e.x.p build-20417196",
+                "filename": "vmware-usbarbitrator64.exe",
+                "fileversion": "20.8.0.0",
+                "lastuse": 1681459179,
+                "pid": 3136,
+                "sha1": "cce3e0a7538ad460aa6fe5a51eaf592a3a852328",
+                "vendor": "VMware, Inc."
+            },
+            {
+                "application": "VMware Workstation",
+                "applicationversion": "17.0.0 build-20800274",
+                "filename": "vmware-tray.exe",
+                "fileversion": "17.0.0.34456",
+                "lastuse": 1681459179,
+                "pid": 18068,
+                "sha1": "0c2829d8d27c009431b65ba4d12552d8ac3982ba",
+                "vendor": "VMware, Inc."
+            },
+            {
+                "application": "VMware Workstation",
+                "applicationversion": "17.0.0 build-20800274",
+                "filename": "vmnetdhcp.exe",
+                "fileversion": "17.0.0.34456",
+                "lastuse": 1681459179,
+                "pid": 7084,
+                "sha1": "b272fa3999e6eacb1685fea50268ac0eb3de1c33",
+                "vendor": "VMware, Inc."
+            },
+            {
+                "application": "VMware Workstation",
+                "applicationversion": "17.0.0 build-20800274",
+                "filename": "vmnat.exe",
+                "fileversion": "17.0.0.34456",
+                "lastuse": 1681459179,
+                "pid": 7144,
+                "sha1": "8ca1e71f54b8d970e76d13483761bece5ffc2a93",
+                "vendor": "VMware, Inc."
+            },
+            {
+                "application": "VMware Workstation",
+                "applicationversion": "17.0.0 build-20800274",
+                "filename": "vmware-authd.exe",
+                "fileversion": "17.0.0.34456",
+                "lastuse": 1681459179,
+                "pid": 7164,
+                "sha1": "bdcd2a73aa4aa4c10b3bbccea75397cb36e5d058",
+                "vendor": "VMware, Inc."
+            },
+            {
+                "application": "VMware Workstation",
+                "applicationversion": "17.0.0 build-20800274",
+                "filename": "vmware-unity-helper.exe",
+                "fileversion": "17.0.0.34456",
+                "lastuse": 1681459186,
+                "pid": 9872,
+                "sha1": "c938fa9e4551a4989d6bcaf292e58a724c4d8dac",
+                "vendor": "VMware, Inc."
+            },
+            {
+                "application": "Visual Studio Code",
+                "applicationversion": "1.77.3",
+                "filename": "Code.exe",
+                "fileversion": "1.77.3.0",
+                "lastuse": 1681459185,
+                "pid": 21608,
+                "sha1": "c2b3fb53bb63a0ca8260587423d304d85d1525bd",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "WeChat",
+                "applicationversion": "3.9.2.1000",
+                "filename": "WeChat.exe",
+                "fileversion": "3.9.2.23",
+                "lastuse": 1681459186,
+                "pid": 4164,
+                "sha1": "58ede611c3f7b7d8ccb89c7b1f20fb25f40d760b",
+                "vendor": "Tencent"
+            },
+            {
+                "application": "WeChatAppEx x64",
+                "applicationversion": "2.0.6763.5",
+                "filename": "WeChatAppEx.exe",
+                "fileversion": "2.0.6763.5",
+                "lastuse": 1681459192,
+                "pid": 6912,
+                "sha1": "3d122d042eb9ba6cd225ebd3b39f0233e160d623",
+                "vendor": "Tencent LLC"
+            },
+            {
+                "application": "WeChatOCR",
+                "applicationversion": "1.0.1.13",
+                "filename": "WeChatOCR.exe",
+                "fileversion": "1.0.1.13",
+                "lastuse": 1681459189,
+                "pid": 4040,
+                "sha1": "5e6c9e101f9ecb5025a2ae958e084e57faa9122d",
+                "vendor": "TENCENT"
+            },
+            {
+                "application": "WeChatPlayer",
+                "applicationversion": "1.0.0.1",
+                "filename": "WeChatPlayer.exe",
+                "fileversion": "2.0.2.9",
+                "lastuse": 1681459189,
+                "pid": 18748,
+                "sha1": "1682f756fc9c0ee84443f3bdfb1a5e4e7b812aef",
+                "vendor": "Tencent"
+            },
+            {
+                "application": "WeChatUtility",
+                "applicationversion": "1.0.0.1",
+                "filename": "WeChatUtility.exe",
+                "fileversion": "1.0.2.6",
+                "lastuse": 1681459189,
+                "pid": 24996,
+                "sha1": "fb66d679eee5ab6c9ee1f9278c01490fe1339e6d",
+                "vendor": "Tencent"
+            },
+            {
+                "application": "Windows® Search",
+                "applicationversion": "7.0.19041.1741",
+                "filename": "SearchIndexer.exe",
+                "fileversion": "7.0.19041.1741",
+                "lastuse": 1681459179,
+                "pid": 13488,
+                "sha1": "45b52c43cec562a9a2ef3767748a1fb291c5a3b7",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "cpptools-srv",
+                "applicationversion": "1.14.4.0",
+                "filename": "cpptools-srv.exe",
+                "fileversion": "1.14.4.0",
+                "lastuse": 1681459186,
+                "pid": 22024,
+                "sha1": "dbbd8eb934886c439d0029f912453776646e9b15",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "cpptools",
+                "applicationversion": "1.14.4.0",
+                "filename": "cpptools.exe",
+                "fileversion": "1.14.4.0",
+                "lastuse": 1681459186,
+                "pid": 22340,
+                "sha1": "c3b82066e372111a1ee30d9638aae4c869a1efbe",
+                "vendor": "Microsoft Corporation"
+            },
+            {
+                "application": "信舱共享免疫SaaS系统 ImmunityOne V8.0",
+                "applicationversion": "8.6.3026.0",
+                "filename": "AisEsmUI.exe",
+                "fileversion": "8.6.3026.0",
+                "lastuse": 1681459179,
+                "pid": 13664,
+                "sha1": "a85d3a6a2a367e02da2ab9761294366958f72624",
+                "vendor": "亚信科技（成都）有限公司"
+            },
+            {
+                "application": "信舱共享免疫SaaS系统 ImmunityOne V8.0",
+                "applicationversion": "8.6.3026.0",
+                "filename": "AisEsmNetService.exe",
+                "fileversion": "8.6.3026.0",
+                "lastuse": 1681459179,
+                "pid": 5424,
+                "sha1": "41c13611282836df89b3bd6008c0a9044549d2a4",
+                "vendor": "亚信科技（成都）有限公司"
+            },
+            {
+                "application": "信舱共享免疫SaaS系统 ImmunityOne V8.0",
+                "applicationversion": "8.6.3026.0",
+                "filename": "AisEsmAntiVirus.exe",
+                "fileversion": "8.6.3026.0",
+                "lastuse": 1681459179,
+                "pid": 9488,
+                "sha1": "0b112e16fdad3afc00b2ba4115303c62a7dcba0b",
+                "vendor": "亚信科技（成都）有限公司"
+            },
+            {
+                "application": "信舱共享免疫SaaS系统 ImmunityOne V8.0",
+                "applicationversion": "8.6.3026.0",
+                "filename": "AisEsmEdr.exe",
+                "fileversion": "8.6.3026.0",
+                "lastuse": 1681459179,
+                "pid": 9516,
+                "sha1": "2a8ba8d361ae963c1ba727fd5ecdb7591c8ff170",
+                "vendor": "亚信科技（成都）有限公司"
+            },
+            {
+                "application": "信舱共享免疫SaaS系统 ImmunityOne V8.0",
+                "applicationversion": "8.6.3026.0",
+                "filename": "AisEsmFB.exe",
+                "fileversion": "8.6.3026.0",
+                "lastuse": 1681459179,
+                "pid": 9544,
+                "sha1": "c11d51eec672cedcac4d0555f5679b396751c255",
+                "vendor": "亚信科技（成都）有限公司"
+            },
+            {
+                "application": "联想帐号",
+                "applicationversion": "1.1.0.223 ",
+                "filename": "Lsf.exe",
+                "fileversion": "1.1.0.223",
+                "lastuse": 1681459179,
+                "pid": 12836,
+                "sha1": "203321ae676af2414fc55c600b92c1f4f711b2f6",
+                "vendor": "联想软件"
+            },
+            {
+                "application": "腾讯QQ",
+                "applicationversion": "4.5.0.17",
+                "filename": "QQProtect.exe",
+                "fileversion": "4.5.0.9424",
+                "lastuse": 1681459179,
+                "pid": 6628,
+                "sha1": "7787bc330c61220e493eea8157a8c78dbb7137cb",
+                "vendor": "Tencent"
+            }
+        ]
+    },
+    "HOSTINFO": {
+        "add": [
+            {
+                "agent_id": "123654",
+                "agent_version": "V2.0.2-13",
+                "bios": "LENOVO R1EET54W(1.54 )",
+                "cpu_type": [
+                    {
+                        "core": 32,
+                        "name": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz"
+                    }
+                ],
+                "cpu_usage": "14.19",
+                "device_model": 0,
+                "disk": [
+                    {
+                        "encrypt": "0",
+                        "filesystype": "NTFS",
+                        "name": "C:",
+                        "total": "250.00",
+                        "use": "102.10"
+                    },
+                    {
+                        "encrypt": "0",
+                        "filesystype": "NTFS",
+                        "name": "D:",
+                        "total": "225.69",
+                        "use": "55.39"
+                    }
+                ],
+                "disktotal": {
+                    "total": "475.69",
+                    "use": "157.48"
+                },
+                "dns": [],
+                "domain": "TSG.AISE.com",
+                "external_ip": "",
+                "gateway": "",
+                "hostname": "nj-yuan-ruan1",
+                "installtime": 1655950253,
+                "kernel": "10.0.19043",
+                "local_ip": "10.21.140.92",
+                "mac": "",
+                "manufacturer": "LENOVO",
+                "memory": "16",
+                "memory_use": "9.05",
+                "net": [
+                    {
+                        "dns_ipv4": [
+                            "10.21.142.8",
+                            "10.21.142.9"
+                        ],
+                        "dns_ipv6": [],
+                        "external_ipv4": [],
+                        "external_ipv6": [],
+                        "gateway_ipv4": [
+                            "10.21.140.1"
+                        ],
+                        "gateway_ipv6": [],
+                        "local_ipv4": [
+                            "10.21.140.92"
+                        ],
+                        "local_ipv6": [
+                            "fe80::c81d:19e:6722:6dc5"
+                        ],
+                        "mac": "88:A4:C2:A9:B3:05",
+                        "name": "Realtek PCIe GbE Family Controller"
+                    },
+                    {
+                        "dns_ipv4": [],
+                        "dns_ipv6": [
+                            "fec0:0:0:ffff::1",
+                            "fec0:0:0:ffff::2",
+                            "fec0:0:0:ffff::3"
+                        ],
+                        "external_ipv4": [],
+                        "external_ipv6": [],
+                        "gateway_ipv4": [],
+                        "gateway_ipv6": [],
+                        "local_ipv4": [
+                            "169.254.189.157"
+                        ],
+                        "local_ipv6": [
+                            "fe80::6db9:fbd7:ee94:bd9d"
+                        ],
+                        "mac": "CC:15:31:EA:D3:60",
+                        "name": "Microsoft Wi-Fi Direct Virtual Adapter"
+                    },
+                    {
+                        "dns_ipv4": [],
+                        "dns_ipv6": [
+                            "fec0:0:0:ffff::1",
+                            "fec0:0:0:ffff::2",
+                            "fec0:0:0:ffff::3"
+                        ],
+                        "external_ipv4": [],
+                        "external_ipv6": [],
+                        "gateway_ipv4": [],
+                        "gateway_ipv6": [],
+                        "local_ipv4": [
+                            "169.254.103.25"
+                        ],
+                        "local_ipv6": [
+                            "fe80::f8d8:d6d2:2cab:6719"
+                        ],
+                        "mac": "CE:15:31:EA:D3:5F",
+                        "name": "Microsoft Wi-Fi Direct Virtual Adapter #2"
+                    },
+                    {
+                        "dns_ipv4": [
+                            "10.21.142.8"
+                        ],
+                        "dns_ipv6": [],
+                        "external_ipv4": [],
+                        "external_ipv6": [],
+                        "gateway_ipv4": [],
+                        "gateway_ipv6": [],
+                        "local_ipv4": [
+                            "169.254.166.133"
+                        ],
+                        "local_ipv6": [
+                            "fe80::cd6b:9dfd:c642:a685"
+                        ],
+                        "mac": "00:FF:36:9B:CE:0D",
+                        "name": "TAP-Windows Adapter V9"
+                    },
+                    {
+                        "dns_ipv4": [],
+                        "dns_ipv6": [
+                            "fec0:0:0:ffff::1",
+                            "fec0:0:0:ffff::2",
+                            "fec0:0:0:ffff::3"
+                        ],
+                        "external_ipv4": [],
+                        "external_ipv6": [],
+                        "gateway_ipv4": [],
+                        "gateway_ipv6": [],
+                        "local_ipv4": [
+                            "192.168.232.1"
+                        ],
+                        "local_ipv6": [
+                            "fe80::edc1:650c:7af0:ad5"
+                        ],
+                        "mac": "00:50:56:C0:00:01",
+                        "name": "VMware Virtual Ethernet Adapter for VMnet1"
+                    },
+                    {
+                        "dns_ipv4": [],
+                        "dns_ipv6": [
+                            "fec0:0:0:ffff::1",
+                            "fec0:0:0:ffff::2",
+                            "fec0:0:0:ffff::3"
+                        ],
+                        "external_ipv4": [],
+                        "external_ipv6": [],
+                        "gateway_ipv4": [],
+                        "gateway_ipv6": [],
+                        "local_ipv4": [
+                            "192.168.195.1"
+                        ],
+                        "local_ipv6": [
+                            "fe80::dd05:2593:e856:4594"
+                        ],
+                        "mac": "00:50:56:C0:00:08",
+                        "name": "VMware Virtual Ethernet Adapter for VMnet8"
+                    },
+                    {
+                        "dns_ipv4": [
+                            "114.114.114.114"
+                        ],
+                        "dns_ipv6": [],
+                        "external_ipv4": [],
+                        "external_ipv6": [],
+                        "gateway_ipv4": [
+                            "10.21.180.1"
+                        ],
+                        "gateway_ipv6": [],
+                        "local_ipv4": [
+                            "10.21.181.40",
+                            "169.254.178.53"
+                        ],
+                        "local_ipv6": [
+                            "fe80::ac15:b712:32df:b235"
+                        ],
+                        "mac": "CC:15:31:EA:D3:5F",
+                        "name": "Intel(R) Wi-Fi 6 AX201 160MHz"
+                    },
+                    {
+                        "dns_ipv4": [],
+                        "dns_ipv6": [
+                            "fec0:0:0:ffff::1",
+                            "fec0:0:0:ffff::2",
+                            "fec0:0:0:ffff::3"
+                        ],
+                        "external_ipv4": [],
+                        "external_ipv6": [],
+                        "gateway_ipv4": [],
+                        "gateway_ipv6": [],
+                        "local_ipv4": [
+                            "127.0.0.1"
+                        ],
+                        "local_ipv6": [
+                            "::1"
+                        ],
+                        "mac": "",
+                        "name": "Software Loopback Interface 1"
+                    }
+                ],
+                "netcard": "Realtek PCIe GbE Family Controller",
+                "os": "Windows 10 企业版 64",
+                "os_version": "21H1",
+                "product_model": "20TAA007CD",
+                "serialnumber": "00329-00000-00003-AA003",
+                "starttime": 1681383200,
+                "uuid": "152EB44C-30AA-11B2-A85C-8EAACF2499F4"
+            }
+        ],
+        "del": [],
+        "reset": 1,
+        "update": []
+    },
+    "SOFTWARE": {
+        "add": [],
+        "del": [],
+        "reset": 0,
+        "update": []
+    },
+    "USER": {
+        "add": [],
+        "del": [],
+        "reset": 0,
+        "update": [
+            {
+                "chpswtime": "1677752127",
+                "domain": "AISETSG",
+                "group": "Users",
+                "hostname": "nj-yuan-ruan1",
+                "localadmin": "0",
+                "logoff_time": "0",
+                "logon_time": "1681383229",
+                "logontype": 2,
+                "sessionid": "1",
+                "status": 513,
+                "type": "1",
+                "user": "AISETSG\\\\yuan_ruan",
+                "username": "yuan_ruan"
+            },
+            {
+                "chpswtime": "1681459195",
+                "domain": "NJ-YUAN-RUAN1",
+                "group": "Administrators",
+                "hostname": "nj-yuan-ruan1",
+                "localadmin": "1",
+                "logoff_time": "0",
+                "logon_time": "1645633057",
+                "logontype": 0,
+                "sessionid": "0",
+                "status": 66051,
+                "type": "0",
+                "user": "NJ-YUAN-RUAN1\\\\Administrator",
+                "username": "Administrator"
+            },
+            {
+                "chpswtime": "1681459195",
+                "domain": "NJ-YUAN-RUAN1",
+                "group": "System Managed Accounts Group",
+                "hostname": "nj-yuan-ruan1",
+                "localadmin": "0",
+                "logoff_time": "0",
+                "logon_time": "0",
+                "logontype": 0,
+                "sessionid": "0",
+                "status": 66083,
+                "type": "0",
+                "user": "NJ-YUAN-RUAN1\\\\DefaultAccount",
+                "username": "DefaultAccount"
+            },
+            {
+                "chpswtime": "1681459195",
+                "domain": "NJ-YUAN-RUAN1",
+                "group": "Guests",
+                "hostname": "nj-yuan-ruan1",
+                "localadmin": "0",
+                "logoff_time": "0",
+                "logon_time": "0",
+                "logontype": 0,
+                "sessionid": "0",
+                "status": 66147,
+                "type": "0",
+                "user": "NJ-YUAN-RUAN1\\\\Guest",
+                "username": "Guest"
+            },
+            {
+                "chpswtime": "1588740409",
+                "domain": "NJ-YUAN-RUAN1",
+                "group": "",
+                "hostname": "nj-yuan-ruan1",
+                "localadmin": "0",
+                "logoff_time": "0",
+                "logon_time": "0",
+                "logontype": 0,
+                "sessionid": "0",
+                "status": 8389123,
+                "type": "0",
+                "user": "NJ-YUAN-RUAN1\\\\WDAGUtilityAccount",
+                "username": "WDAGUtilityAccount"
+            },
+            {
+                "chpswtime": "1673401971",
+                "domain": "NJ-YUAN-RUAN1",
+                "group": "Administrators;Users",
+                "hostname": "nj-yuan-ruan1",
+                "localadmin": "1",
+                "logoff_time": "0",
+                "logon_time": "1673401863",
+                "logontype": 0,
+                "sessionid": "0",
+                "status": 66049,
+                "type": "0",
+                "user": "NJ-YUAN-RUAN1\\\\is_admin",
+                "username": "is_admin"
+            }
+        ]
+    },
+    "autoruninfo": {
+        "add": [],
+        "del": [],
+        "reset": 0,
+        "update": []
+    },
+    "company": "ASIA",
+    "croninfo": {
+        "add": [],
+        "del": [],
+        "reset": 0,
+        "update": [
+            {
+                "cmd": "\\\"C:\\\\Windows\\\\Lenovo\\\\ImController\\\\Service\\\\Lenovo.Modern.ImController.exe\\\" /timebasedeventtrigger 1d818451-7c31-4b34-af13-0a253b32152f",
+                "cronname": "1d818451-7c31-4b34-af13-0a253b32152f",
+                "detailMsg": "在每天的08:00:15",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681520177"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "1454198415",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_DAILY",
+                "user": "--"
+            },
+            {
+                "cmd": "\\\"C:\\\\Windows\\\\Lenovo\\\\ImController\\\\Service\\\\Lenovo.Modern.ImController.exe\\\" /timebasedeventtrigger 69466d37-c97a-4083-ad2d-a081880ed474",
+                "cronname": "69466d37-c97a-4083-ad2d-a081880ed474",
+                "detailMsg": "在每天的09:00:10",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681522597"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "1580432410",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_DAILY",
+                "user": "--"
+            },
+            {
+                "cmd": "\\\"C:\\\\Windows\\\\Lenovo\\\\ImController\\\\Service\\\\Lenovo.Modern.ImController.exe\\\" /timebasedeventtrigger 6e18271b-fb96-409d-8e61-9c9d9a8575a2",
+                "cronname": "6e18271b-fb96-409d-8e61-9c9d9a8575a2",
+                "detailMsg": "在每天的08:00:10",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681524670"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "1454198410",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_DAILY",
+                "user": "--"
+            },
+            {
+                "cmd": "--",
+                "cronname": "AD RMS Rights Policy Template Management (Automated)",
+                "detailMsg": "在每天的03:00:00",
+                "details": {
+                    "createtime": "1163140195",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681501891"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "7dba1862-fdda-4030-83de-895375c111d4",
+                "startboundary": "1163012400",
+                "status": "TASK_STATE_DISABLED",
+                "type": "TASK_TRIGGER_DAILY",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "--",
+                "cronname": "AD RMS Rights Policy Template Management (Automated)",
+                "detailMsg": "当任何用户登录时",
+                "details": {
+                    "createtime": "1163140195",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681501891"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "06b3f632-87ad-4ac0-9737-48ea5ddbaf11",
+                "startboundary": "--",
+                "status": "TASK_STATE_DISABLED",
+                "type": "TASK_TRIGGER_LOGON",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "--",
+                "cronname": "Background Synchronization",
+                "detailMsg": "在2008-01-01的00:00:00时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681466569"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "1199116800",
+                "status": "TASK_STATE_DISABLED",
+                "type": "TASK_TRIGGER_TIME",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "--",
+                "cronname": "Data Integrity Check And Scan",
+                "detailMsg": "在每天的23:00:00",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681484557"
+                },
+                "enable": "0",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "Init",
+                "startboundary": "1293894000",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_DAILY",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "--",
+                "cronname": "Data Integrity Check And Scan",
+                "detailMsg": "在系统启动时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681484557"
+                },
+                "enable": "0",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "Resume",
+                "startboundary": "--",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_BOOT",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "%windir%\\\\system32\\\\devicecensus.exe SystemCxt",
+                "cronname": "Device",
+                "detailMsg": "在2008-09-01的03:00:00时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681416597",
+                    "nextruntime": "1681498802"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "1220209200",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_TIME",
+                "user": "--"
+            },
+            {
+                "cmd": "%windir%\\\\system32\\\\devicecensus.exe SystemCxt",
+                "cronname": "Device",
+                "detailMsg": "自定义触发器1",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681416597",
+                    "nextruntime": "1681498802"
+                },
+                "enable": "0",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "WNF_DEP_OOBE_COMPLETE",
+                "startboundary": "--",
+                "status": "TASK_STATE_READY",
+                "type": "自定义触发器",
+                "user": "--"
+            },
+            {
+                "cmd": "--",
+                "cronname": "HiveUploadTask",
+                "detailMsg": "在2007-08-28的00:00:00时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681489735"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "1188230400",
+                "status": "TASK_STATE_DISABLED",
+                "type": "TASK_TRIGGER_TIME",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "--",
+                "cronname": "IntegrityCheck",
+                "detailMsg": "在2015-01-01的12:00:00时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681380203",
+                    "nextruntime": "1682001232"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "1420084800",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_TIME",
+                "user": "--"
+            },
+            {
+                "cmd": "%SystemRoot%\\\\system32\\\\ClipRenew.exe",
+                "cronname": "LicenseAcquisition",
+                "detailMsg": "在每天的08:00:00+08:00",
+                "details": {
+                    "createtime": "1451577600",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681522184"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "1451606400",
+                "status": "TASK_STATE_DISABLED",
+                "type": "TASK_TRIGGER_DAILY",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "%SystemRoot%\\\\system32\\\\ClipRenew.exe",
+                "cronname": "LicenseAcquisition",
+                "detailMsg": "当创建任务或修改任务时",
+                "details": {
+                    "createtime": "1451577600",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681522184"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "--",
+                "status": "TASK_STATE_DISABLED",
+                "type": "TASK_TRIGGER_REGISTRATION",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "%SystemRoot%\\\\system32\\\\ClipRenew.exe",
+                "cronname": "LicenseAcquisition",
+                "detailMsg": "自定义触发器1",
+                "details": {
+                    "createtime": "1451577600",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681522184"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "--",
+                "status": "TASK_STATE_DISABLED",
+                "type": "自定义触发器",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "--",
+                "cronname": "MapsUpdateTask",
+                "detailMsg": "在2014-10-21的00:00:00时",
+                "details": {
+                    "createtime": "1415116800",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681493162"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "1413820800",
+                "status": "TASK_STATE_DISABLED",
+                "type": "TASK_TRIGGER_TIME",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "%windir%\\\\system32\\\\compattelrunner.exe",
+                "cronname": "Microsoft Compatibility Appraiser",
+                "detailMsg": "在2008-09-01的03:00:00时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681416597",
+                    "nextruntime": "1681505983"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "NightlyTrigger",
+                "startboundary": "1220209200",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_TIME",
+                "user": "$(@%SystemRoot%\\\\system32\\\\compattelrunner.exe,-501)"
+            },
+            {
+                "cmd": "%windir%\\\\system32\\\\compattelrunner.exe",
+                "cronname": "Microsoft Compatibility Appraiser",
+                "detailMsg": "自定义触发器1",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681416597",
+                    "nextruntime": "1681505983"
+                },
+                "enable": "0",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "OobeTrigger",
+                "startboundary": "--",
+                "status": "TASK_STATE_READY",
+                "type": "自定义触发器",
+                "user": "$(@%SystemRoot%\\\\system32\\\\compattelrunner.exe,-501)"
+            },
+            {
+                "cmd": "%windir%\\\\system32\\\\compattelrunner.exe",
+                "cronname": "Microsoft Compatibility Appraiser",
+                "detailMsg": "自定义触发器2",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681416597",
+                    "nextruntime": "1681505983"
+                },
+                "enable": "0",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "NetworkTrigger",
+                "startboundary": "--",
+                "status": "TASK_STATE_READY",
+                "type": "自定义触发器",
+                "user": "$(@%SystemRoot%\\\\system32\\\\compattelrunner.exe,-501)"
+            },
+            {
+                "cmd": "%ProgramFiles%\\\\Common Files\\\\Microsoft Shared\\\\Office16\\\\OLicenseHeartbeat.exe",
+                "cronname": "Office 15 Subscription Heartbeat",
+                "detailMsg": "在每天的00:00:00",
+                "details": {
+                    "createtime": "1325347200",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681409396",
+                    "nextruntime": "1681488538"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "18446744073709551615",
+                "id": "--",
+                "startboundary": "1262275200",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_DAILY",
+                "user": "Microsoft Office"
+            },
+            {
+                "cmd": "%localappdata%\\\\Microsoft\\\\OneDrive\\\\OneDriveStandaloneUpdater.exe",
+                "cronname": "OneDrive Standalone Update Task-S-1-5-21-2764768606-1951160657-1725202440-1001",
+                "detailMsg": "在1992-05-01的10:00:00时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681525123"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "704685600",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_TIME",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "%localappdata%\\\\Microsoft\\\\OneDrive\\\\OneDriveStandaloneUpdater.exe",
+                "cronname": "OneDrive Standalone Update Task-S-1-5-21-2764768606-1951160657-1725202440-1002",
+                "detailMsg": "在1992-05-01的09:00:00时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681531741"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "704682000",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_TIME",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "%localappdata%\\\\Microsoft\\\\OneDrive\\\\OneDriveStandaloneUpdater.exe",
+                "cronname": "OneDrive Standalone Update Task-S-1-5-21-2764768606-1951160657-1725202440-500",
+                "detailMsg": "在1992-05-01的12:00:00时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1645632719",
+                    "nextruntime": "1681545473"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "704692800",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_TIME",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "%windir%\\\\system32\\\\rundll32.exe %windir%\\\\system32\\\\PcaSvc.dll,PcaPatchSdbTask",
+                "cronname": "PcaPatchDbTask",
+                "detailMsg": "在2008-09-01的03:00:00时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681412995",
+                    "nextruntime": "1681499131"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "1220209200",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_TIME",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "--",
+                "cronname": "PerformRemediation",
+                "detailMsg": "在2000-10-15的03:00:00时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1680996033",
+                    "nextruntime": "1681585714"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "971550000",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_TIME",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "--",
+                "cronname": "Property Definition Sync",
+                "detailMsg": "在每天的03:00:00",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681510022"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "FsrmDailyTrigger",
+                "startboundary": "1163012400",
+                "status": "TASK_STATE_DISABLED",
+                "type": "TASK_TRIGGER_DAILY",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "%windir%\\\\system32\\\\wermgr.exe -upload",
+                "cronname": "QueueReporting",
+                "detailMsg": "在2015-01-01的08:00:00+08:00时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681448184",
+                    "nextruntime": "1681476387"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "QueueReportingTimeTrigger",
+                "startboundary": "1420070400",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_TIME",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "%windir%\\\\system32\\\\wermgr.exe -upload",
+                "cronname": "QueueReporting",
+                "detailMsg": "在系统启动时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681448184",
+                    "nextruntime": "1681476387"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "QueueReportingBootTrigger",
+                "startboundary": "--",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_BOOT",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "%windir%\\\\system32\\\\wermgr.exe -upload",
+                "cronname": "QueueReporting",
+                "detailMsg": "自定义触发器1",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681448184",
+                    "nextruntime": "1681476387"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "QueueReportingWnfTrigger",
+                "startboundary": "--",
+                "status": "TASK_STATE_READY",
+                "type": "自定义触发器",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "%windir%\\\\system32\\\\wermgr.exe -upload",
+                "cronname": "QueueReporting",
+                "detailMsg": "自定义触发器2",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681448184",
+                    "nextruntime": "1681476387"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "QueueReportingFreeNetworkTrigger",
+                "startboundary": "--",
+                "status": "TASK_STATE_READY",
+                "type": "自定义触发器",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "%windir%\\\\system32\\\\wermgr.exe -upload",
+                "cronname": "QueueReporting",
+                "detailMsg": "自定义触发器3",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681448184",
+                    "nextruntime": "1681476387"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "QueueReportingACPowerTrigger",
+                "startboundary": "--",
+                "status": "TASK_STATE_READY",
+                "type": "自定义触发器",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "--",
+                "cronname": "RefreshCache",
+                "detailMsg": "在2023-04-14的15:55:44+08:00时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681455820",
+                    "nextruntime": "1681493067"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "1681458944",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_TIME",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "--",
+                "cronname": "RefreshCache",
+                "detailMsg": "自定义触发器1",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681455820",
+                    "nextruntime": "1681493067"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "--",
+                "status": "TASK_STATE_READY",
+                "type": "自定义触发器",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "--",
+                "cronname": "RegisterDevicePeriodic24",
+                "detailMsg": "在2015-01-01的06:00:00时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。",
+                    "lastruntime": "1656382035",
+                    "nextruntime": "1681553813"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "1420063200",
+                "status": "TASK_STATE_DISABLED",
+                "type": "TASK_TRIGGER_TIME",
+                "user": "--"
+            },
+            {
+                "cmd": "%windir%\\\\System32\\\\UNP\\\\UpdateNotificationMgr.exe",
+                "cronname": "RunUpdateNotificationMgr",
+                "detailMsg": "在每天的10:30:00",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681532286"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "1464834600",
+                "status": "TASK_STATE_DISABLED",
+                "type": "TASK_TRIGGER_DAILY",
+                "user": "--"
+            },
+            {
+                "cmd": "%windir%\\\\System32\\\\UNP\\\\UpdateNotificationMgr.exe",
+                "cronname": "RunUpdateNotificationMgr",
+                "detailMsg": "当创建任务或修改任务时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681532286"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "--",
+                "status": "TASK_STATE_DISABLED",
+                "type": "TASK_TRIGGER_REGISTRATION",
+                "user": "--"
+            },
+            {
+                "cmd": "%systemroot%\\\\system32\\\\usoclient.exe StartScan",
+                "cronname": "Schedule Scan",
+                "detailMsg": "在2019-01-01的12:00:00时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681356802",
+                    "nextruntime": "1681528164"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "1546315200",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_TIME",
+                "user": "--"
+            },
+            {
+                "cmd": "C:\\\\Windows\\\\system32\\\\sc.exe start wuauserv",
+                "cronname": "Scheduled Start",
+                "detailMsg": "在2023-04-14的21:42:05+08:00时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681393313",
+                    "nextruntime": "1681479777"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "1681479725",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_TIME",
+                "user": "Microsoft Corporation。"
+            },
+            {
+                "cmd": "C:\\\\Windows\\\\system32\\\\sc.exe start wuauserv",
+                "cronname": "Scheduled Start",
+                "detailMsg": "当断开来自任何用户会话的本地连接时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681393313",
+                    "nextruntime": "1681479777"
+                },
+                "enable": "0",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "--",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_SESSION_STATE_CHANGE",
+                "user": "Microsoft Corporation。"
+            },
+            {
+                "cmd": "C:\\\\Windows\\\\system32\\\\sc.exe start wuauserv",
+                "cronname": "Scheduled Start",
+                "detailMsg": "当断开来自任何用户会话的远程连接时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681393313",
+                    "nextruntime": "1681479777"
+                },
+                "enable": "0",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "--",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_SESSION_STATE_CHANGE",
+                "user": "Microsoft Corporation。"
+            },
+            {
+                "cmd": "C:\\\\Windows\\\\system32\\\\sc.exe start wuauserv",
+                "cronname": "Scheduled Start",
+                "detailMsg": "自定义触发器1",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681393313",
+                    "nextruntime": "1681479777"
+                },
+                "enable": "0",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "--",
+                "status": "TASK_STATE_READY",
+                "type": "自定义触发器",
+                "user": "Microsoft Corporation。"
+            },
+            {
+                "cmd": "%windir%\\\\system32\\\\speech_onecore\\\\common\\\\SpeechModelDownload.exe",
+                "cronname": "SpeechModelDownloadTask",
+                "detailMsg": "在2004-01-01的00:00:00时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681409396",
+                    "nextruntime": "1681499318"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "1072886400",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_TIME",
+                "user": "--"
+            },
+            {
+                "cmd": "%systemroot%\\\\system32\\\\MusNotification.exe",
+                "cronname": "USO_UxBroker",
+                "detailMsg": "在每天的03:00:00",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681419237",
+                    "nextruntime": "1681547016"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "946666800",
+                "status": "TASK_STATE_READY",
+                "type": "TASK_TRIGGER_DAILY",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "%systemroot%\\\\system32\\\\MusNotification.exe",
+                "cronname": "USO_UxBroker",
+                "detailMsg": "自定义触发器1",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "操作成功完成。",
+                    "lastruntime": "1681419237",
+                    "nextruntime": "1681547016"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "--",
+                "status": "TASK_STATE_READY",
+                "type": "自定义触发器",
+                "user": "Microsoft Corporation"
+            },
+            {
+                "cmd": "--",
+                "cronname": "WakeUpAndScanForUpdates",
+                "detailMsg": "在2014-01-01的08:00:00+08:00时",
+                "details": {
+                    "createtime": "--",
+                    "lastrunresult": "任务尚未运行。",
+                    "lastruntime": "943891200",
+                    "nextruntime": "1681573540"
+                },
+                "enable": "1",
+                "endboundary": "--",
+                "exetimelimit": "--",
+                "id": "--",
+                "startboundary": "1388534400",
+                "status": "TASK_STATE_DISABLED",
+                "type": "TASK_TRIGGER_TIME",
+                "user": "--"
+            }
+        ]
+    },
+    "dbinfo": {
+        "add": [],
+        "del": [],
+        "reset": 0,
+        "update": []
+    },
+    "jar_info": {
+        "add": [
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\annotations-api.jar",
+                "executable": 0,
+                "jar_name": "annotations-api.jar",
+                "jar_type": "OtherType",
+                "jar_version": "2.0.0"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\bin\\bootstrap.jar",
+                "executable": 1,
+                "jar_name": "bootstrap.jar",
+                "jar_type": "ExecuteType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\catalina-ant.jar",
+                "executable": 0,
+                "jar_name": "catalina-ant.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\catalina-ha.jar",
+                "executable": 0,
+                "jar_name": "catalina-ha.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\catalina-ssi.jar",
+                "executable": 0,
+                "jar_name": "catalina-ssi.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\catalina-storeconfig.jar",
+                "executable": 0,
+                "jar_name": "catalina-storeconfig.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\catalina-tribes.jar",
+                "executable": 0,
+                "jar_name": "catalina-tribes.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\catalina.jar",
+                "executable": 0,
+                "jar_name": "catalina.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\bin\\commons-daemon.jar",
+                "executable": 0,
+                "jar_name": "commons-daemon.jar",
+                "jar_type": "OtherType",
+                "jar_version": "1.3.1"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\ecj-4.20.jar",
+                "executable": 1,
+                "jar_name": "ecj-4.20.jar",
+                "jar_type": "ExecuteType",
+                "jar_version": "4.20"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\el-api.jar",
+                "executable": 0,
+                "jar_name": "el-api.jar",
+                "jar_type": "OtherType",
+                "jar_version": "4.0.0"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\jakartaee-migration-1.0.4-shaded.jar",
+                "executable": 1,
+                "jar_name": "jakartaee-migration-1.0.4-shaded.jar",
+                "jar_type": "ExecuteType",
+                "jar_version": "1.0.4"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\jasper-el.jar",
+                "executable": 0,
+                "jar_name": "jasper-el.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\jasper.jar",
+                "executable": 0,
+                "jar_name": "jasper.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\jaspic-api.jar",
+                "executable": 0,
+                "jar_name": "jaspic-api.jar",
+                "jar_type": "OtherType",
+                "jar_version": "2.0.0"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\jsp-api.jar",
+                "executable": 0,
+                "jar_name": "jsp-api.jar",
+                "jar_type": "OtherType",
+                "jar_version": "3.0.0"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\servlet-api.jar",
+                "executable": 0,
+                "jar_name": "servlet-api.jar",
+                "jar_type": "OtherType",
+                "jar_version": "5.0.0"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\tomcat-api.jar",
+                "executable": 0,
+                "jar_name": "tomcat-api.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\tomcat-coyote.jar",
+                "executable": 0,
+                "jar_name": "tomcat-coyote.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\tomcat-dbcp.jar",
+                "executable": 0,
+                "jar_name": "tomcat-dbcp.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\tomcat-i18n-cs.jar",
+                "executable": 0,
+                "jar_name": "tomcat-i18n-cs.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\tomcat-i18n-de.jar",
+                "executable": 0,
+                "jar_name": "tomcat-i18n-de.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\tomcat-i18n-es.jar",
+                "executable": 0,
+                "jar_name": "tomcat-i18n-es.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\tomcat-i18n-fr.jar",
+                "executable": 0,
+                "jar_name": "tomcat-i18n-fr.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\tomcat-i18n-ja.jar",
+                "executable": 0,
+                "jar_name": "tomcat-i18n-ja.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\tomcat-i18n-ko.jar",
+                "executable": 0,
+                "jar_name": "tomcat-i18n-ko.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\tomcat-i18n-pt-BR.jar",
+                "executable": 0,
+                "jar_name": "tomcat-i18n-pt-BR.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\tomcat-i18n-ru.jar",
+                "executable": 0,
+                "jar_name": "tomcat-i18n-ru.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\tomcat-i18n-zh-CN.jar",
+                "executable": 0,
+                "jar_name": "tomcat-i18n-zh-CN.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\tomcat-jdbc.jar",
+                "executable": 0,
+                "jar_name": "tomcat-jdbc.jar",
+                "jar_type": "OtherType",
+                "jar_version": ""
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\tomcat-jni.jar",
+                "executable": 0,
+                "jar_name": "tomcat-jni.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\bin\\tomcat-juli.jar",
+                "executable": 0,
+                "jar_name": "tomcat-juli.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\tomcat-util-scan.jar",
+                "executable": 0,
+                "jar_name": "tomcat-util-scan.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\tomcat-util.jar",
+                "executable": 0,
+                "jar_name": "tomcat-util.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\tomcat-websocket.jar",
+                "executable": 0,
+                "jar_name": "tomcat-websocket.jar",
+                "jar_type": "OtherType",
+                "jar_version": "10.0.27"
+            },
+            {
+                "absolute_path": "D:\\TempWork\\apache-tomcat-10.0.27\\lib\\websocket-api.jar",
+                "executable": 0,
+                "jar_name": "websocket-api.jar",
+                "jar_type": "OtherType",
+                "jar_version": "2.0.0"
+            }
+        ],
+        "del": [],
+        "reset": 0,
+        "update": []
+    },
+    "portinfo": {
+        "add": [
+            {
+                "bindip": "::",
+                "details": {
+                    "pid": "13936",
+                    "remoteIP": "--",
+                    "remotePort": "--",
+                    "status": "--"
+                },
+                "port": "5353",
+                "processname": "Feishu.exe",
+                "processpath": "C:\\\\Users\\\\yuan_ruan\\\\AppData\\\\Local\\\\Feishu\\\\app\\\\Feishu.exe",
+                "protocol": "UDP",
+                "sha1": "952e56a15f0470af3256184d51a7ee18ea0d9bdf",
+                "starttime": "1681383250",
+                "user": "yuan_ruan"
+            },
+            {
+                "bindip": "0.0.0.0",
+                "details": {
+                    "pid": "2888",
+                    "remoteIP": "--",
+                    "remotePort": "--",
+                    "status": "--"
+                },
+                "port": "57244",
+                "processname": "Feishu.exe",
+                "processpath": "C:\\\\Users\\\\yuan_ruan\\\\AppData\\\\Local\\\\Feishu\\\\app\\\\Feishu.exe",
+                "protocol": "UDP",
+                "sha1": "952e56a15f0470af3256184d51a7ee18ea0d9bdf",
+                "starttime": "1681383251",
+                "user": "yuan_ruan"
+            },
+            {
+                "bindip": "127.0.0.1",
+                "details": {
+                    "pid": "28632",
+                    "remoteIP": "0.0.0.0",
+                    "remotePort": "0",
+                    "status": "LISTENING"
+                },
+                "port": "8005",
+                "processname": "java.exe",
+                "processpath": "C:\\\\Program Files\\\\Java\\\\jdk-11.0.16\\\\bin\\\\java.exe",
+                "protocol": "TCP",
+                "sha1": "06a69b704693318a18ee6cf2cab426f953f86233",
+                "starttime": "1681459135",
+                "user": "yuan_ruan"
+            },
+            {
+                "bindip": "::1",
+                "details": {
+                    "pid": "28632",
+                    "remoteIP": "::",
+                    "remotePort": "0",
+                    "status": "LISTENING"
+                },
+                "port": "8019",
+                "processname": "java.exe",
+                "processpath": "C:\\\\Program Files\\\\Java\\\\jdk-11.0.16\\\\bin\\\\java.exe",
+                "protocol": "TCP",
+                "sha1": "06a69b704693318a18ee6cf2cab426f953f86233",
+                "starttime": "1681459135",
+                "user": "yuan_ruan"
+            },
+            {
+                "bindip": "0.0.0.0",
+                "details": {
+                    "pid": "28632",
+                    "remoteIP": "0.0.0.0",
+                    "remotePort": "0",
+                    "status": "LISTENING"
+                },
+                "port": "8091",
+                "processname": "java.exe",
+                "processpath": "C:\\\\Program Files\\\\Java\\\\jdk-11.0.16\\\\bin\\\\java.exe",
+                "protocol": "TCP",
+                "sha1": "06a69b704693318a18ee6cf2cab426f953f86233",
+                "starttime": "1681459135",
+                "user": "yuan_ruan"
+            },
+            {
+                "bindip": "::",
+                "details": {
+                    "pid": "28632",
+                    "remoteIP": "::",
+                    "remotePort": "0",
+                    "status": "LISTENING"
+                },
+                "port": "8091",
+                "processname": "java.exe",
+                "processpath": "C:\\\\Program Files\\\\Java\\\\jdk-11.0.16\\\\bin\\\\java.exe",
+                "protocol": "TCP",
+                "sha1": "06a69b704693318a18ee6cf2cab426f953f86233",
+                "starttime": "1681459135",
+                "user": "yuan_ruan"
+            }
+        ],
+        "del": [
+            {
+                "bindip": "::",
+                "details": {
+                    "pid": "29100",
+                    "remoteIP": "--",
+                    "remotePort": "--",
+                    "status": "--"
+                },
+                "port": "5353",
+                "processname": "msedge.exe",
+                "processpath": "C:\\\\Program Files (x86)\\\\Microsoft\\\\Edge\\\\Application\\\\msedge.exe",
+                "protocol": "UDP",
+                "sha1": "5e80a17a23e53d517ae7c3a77eed29122af8e871",
+                "starttime": "1681458088",
+                "user": "yuan_ruan"
+            }
+        ],
+        "reset": 0,
+        "update": []
+    },
+    "third_party_library_info": {
+        "add": [],
+        "del": [],
+        "reset": 0,
+        "update": []
+    },
+    "web_application_info": {
+        "add": [],
+        "del": [],
+        "reset": 0,
+        "update": []
+    },
+    "web_framework_info": {
+        "add": [],
+        "del": [],
+        "reset": 0,
+        "update": []
+    },
+    "webserviceinfo": {
+        "add": [
+            {
+                "binpath": "C:\\\\Program Files\\\\Java\\\\jdk-11.0.16\\\\bin\\\\java.exe",
+                "confpath": "D:\\\\TempWork\\\\apache-tomcat-10.0.27\\\\conf\\\\server.xml",
+                "details": {
+                    "port": "8091"
+                },
+                "sha1": "06a69b704693318a18ee6cf2cab426f953f86233",
+                "type": "Tomcat",
+                "user": "yuan_ruan",
+                "version": "10.0.27"
+            }
+        ],
+        "del": [],
+        "reset": 0,
+        "update": []
+    },
+    "website_info": {
+        "add": [
+            {
+                "authority": "rwx",
+                "bind_ip": [
+                    "[::]"
+                ],
+                "bind_port": [
+                    "8091"
+                ],
+                "cmd": "\"C:\\Program Files\\Java\\jdk-11.0.16\\bin\\java.exe\"  -Djava.util.logging.config.file=\"D:\\TempWork\\apache-tomcat-10.0.27\\conf\\logging.properties\" -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager  -Djdk.tls.ephemeralDHKeySize=2048 -Djava.protocol.handler.pkgs=org.apache.catalina.webresources   -Dignore.endorsed.dirs=\"\" -classpath \"D:\\TempWork\\apache-tomcat-10.0.27\\bin\\bootstrap.jar;D:\\TempWork\\apache-tomcat-10.0.27\\bin\\tomcat-juli.jar\" -Dcatalina.base=\"D:\\TempWork\\apache-tomcat-10.0.27\" -Dcatalina.home=\"D:\\TempWork\\apache-tomcat-10.0.27\" -Djava.io.tmpdir=\"D:\\TempWork\\apache-tomcat-10.0.27\\temp\" org.apache.catalina.startup.Bootstrap  start",
+                "config_path": "D:\\TempWork\\apache-tomcat-10.0.27\\conf\\server.xml",
+                "domain_name": [
+                    "localhost"
+                ],
+                "home_path": "D:\\Test",
+                "home_path_owner": "yuan_ruan",
+                "path_info": [
+                    {
+                        "authority": "rwx",
+                        "owner_group": "Domain Users",
+                        "owner_user": "yuan_ruan",
+                        "physical_path": "D:\\Test",
+                        "virtual_path": ""
+                    },
+                    {
+                        "authority": "rwx",
+                        "owner_group": "Domain Users",
+                        "owner_user": "yuan_ruan",
+                        "physical_path": "D:\\TempWork\\apache-tomcat-10.0.27\\webapps\\ROOT",
+                        "virtual_path": "/ROOT"
+                    },
+                    {
+                        "authority": "rwx",
+                        "owner_group": "Domain Users",
+                        "owner_user": "yuan_ruan",
+                        "physical_path": "D:\\TempWork\\apache-tomcat-10.0.27\\webapps\\docs",
+                        "virtual_path": "/docs"
+                    },
+                    {
+                        "authority": "rwx",
+                        "owner_group": "Domain Users",
+                        "owner_user": "yuan_ruan",
+                        "physical_path": "D:\\TempWork\\apache-tomcat-10.0.27\\webapps\\examples",
+                        "virtual_path": "/examples"
+                    },
+                    {
+                        "authority": "rwx",
+                        "owner_group": "Domain Users",
+                        "owner_user": "yuan_ruan",
+                        "physical_path": "D:\\TempWork\\apache-tomcat-10.0.27\\webapps\\host-manager",
+                        "virtual_path": "/host-manager"
+                    },
+                    {
+                        "authority": "rwx",
+                        "owner_group": "Domain Users",
+                        "owner_user": "yuan_ruan",
+                        "physical_path": "D:\\TempWork\\apache-tomcat-10.0.27\\webapps\\manager",
+                        "virtual_path": "/manager"
+                    },
+                    {
+                        "authority": "rwx",
+                        "owner_group": "Domain Users",
+                        "owner_user": "yuan_ruan",
+                        "physical_path": "D:\\TempWork\\apache-tomcat-10.0.27\\webapps\\中文测试Tomcat",
+                        "virtual_path": "/中文测试Tomcat"
+                    }
+                ],
+                "pid": "28632",
+                "protocol": [
+                    "http"
+                ],
+                "run_user": "yuan_ruan",
+                "start_time": "1681459135",
+                "status": 1,
+                "user_privilege": 0,
+                "web_service": "Tomcat"
+            }
+        ],
+        "del": [],
+        "reset": 0,
+        "update": []
+    }
+}

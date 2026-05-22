@@ -1,0 +1,16 @@
+*.user
+*.ncb
+*.suo
+*.opensdf
+*.sdf
+*.aps
+*.pdb
+*.ipdb
+*.iobj
+
+
+/source/.vs/
+output/
+source/VAScan/Release/
+source/VAScan/x64/Release/
+source/VAScanTest/Release/

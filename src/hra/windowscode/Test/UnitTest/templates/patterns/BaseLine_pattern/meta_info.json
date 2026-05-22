@@ -1,0 +1,1 @@
+{"pattern_type": "windows-baseline", "pattern_version": "36", "date": "2022-08-25 16:15:27", "sha256": [{"path": "blp$36", "sha256": "12ccb3b4331eed9bc07b60c4ff862052800000d224b53f1c2e315c57ee6ac341"}, {"path": "windows$36", "sha256": "bb7ed6eac07d025e7bc3b74e6bd7a07c4ee8ba985a24aef964bd39f704e716c8"}]}

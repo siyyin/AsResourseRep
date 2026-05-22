@@ -1,0 +1,460 @@
+CVE-2022-21989	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-21989
+ Windows 10 请安装补丁: KB5010358	KB5010359	KB5010351	KB5010345	KB5010342
+ Windows 11 请安装补丁： KB5010386
+ Windows 7 请安装补丁： KB5010422
+ Windows 8.1 请安装补丁： KB5010395
+ Windows Server 2008  请安装补丁：KB5010403
+ Windows Server 2008 R2 请安装补丁： KB5010422
+ Windows Server 2012 请安装补丁：KB5010412
+ Windows Server 2012 R2 请安装补丁： KB5010395
+ Windows Server 2016 请安装补丁： KB5010359
+ Windows Server 2019 请安装补丁： KB5010351
+ Windows Server 2022 请安装补丁： KB5010354
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-22710 https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-22710
+ Windows 10 请安装补丁: KB5010358	KB5010359	KB5010345	KB5010342	KB5010351
+ Windows 11 请安装补丁： KB5010386
+ Windows 7 请安装补丁： KB5010422
+ Windows 8.1 请安装补丁： KB5010395
+ Windows Server 2008  请安装补丁：KB5010403
+ Windows Server 2008 R2 请安装补丁： KB5010422
+ Windows Server 2012 请安装补丁：KB5010412
+ Windows Server 2012 R2 请安装补丁： KB5010395
+ Windows Server 2016 请安装补丁： KB5010359
+ Windows Server 2019 请安装补丁： KB5010351
+ Windows Server 2022 请安装补丁： KB5010354
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-24459	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-24459
+ Windows 10 请安装补丁: KB5011491	KB5011487	KB5011495	KB5011503	KB5011485
+ Windows 11 请安装补丁： KB5011493
+ Windows 7 请安装补丁： KB5011529
+ Windows 8.1 请安装补丁： KB5011560
+ Windows Server 2008  请安装补丁：KB5011525
+ Windows Server 2008 R2 请安装补丁： KB5011529	
+ Windows Server 2012 请安装补丁：KB5011527
+ Windows Server 2012 R2 请安装补丁： KB5011560
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-24505	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-24505
+ Windows 10 请安装补丁: KB5011491	KB5011487	KB5011485	KB5011503	KB5011495
+ Windows 11 请安装补丁： KB5011493
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-23287	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-23287
+ Windows 10 请安装补丁: KB5011495	KB5011503	KB5011485	KB5011487
+ Windows 11 请安装补丁： KB5011493
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-21995	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-21995
+ Windows 10 请安装补丁: KB5010358	KB5010359	KB5010351	KB5010345	KB5010342
+ Windows 11 请安装补丁： KB5010386
+ Windows Server 2016 请安装补丁： KB5010359
+ Windows Server 2019 请安装补丁： KB5010351
+ Windows Server 2022 请安装补丁： KB5010354
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-23291	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-23291
+ Windows 10 请安装补丁: KB5011503	KB5011485	KB5011487
+ Windows 11 请安装补丁： KB5011493
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-21999	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-21999
+ Windows 10 请安装补丁: KB5010358	KB5010359	KB5010351	KB5010345	KB5010342
+ Windows 11 请安装补丁： KB5010386
+ Windows 7 请安装补丁： KB5010422
+ Windows 8.1 请安装补丁： KB5010395
+ Windows Server 2008  请安装补丁：KB5010403
+ Windows Server 2008 R2 请安装补丁： KB5010422
+ Windows Server 2012 请安装补丁：KB5010412
+ Windows Server 2012 R2 请安装补丁： KB5010395
+ Windows Server 2016 请安装补丁： KB5010359
+ Windows Server 2019 请安装补丁： KB5010351
+ Windows Server 2022 请安装补丁： KB5010354
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-24503	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-24503
+ Windows 10 请安装补丁: KB5011491	KB5011495	KB5011503	KB5011485	KB5011487
+ Windows 11 请安装补丁： KB5011493
+ Windows 7 请安装补丁： KB5011529
+ Windows 8.1 请安装补丁： KB5011560
+ Windows Server 2008 R2 请安装补丁： KB5011529
+ Windows Server 2012 请安装补丁：KB5011527
+ Windows Server 2012 R2 请安装补丁： KB5011560
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-21971	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-21971
+ Windows 10 请安装补丁: KB5010351	KB5010345	KB5010342
+ Windows 11 请安装补丁： KB5010386
+ Windows Server 2019 请安装补丁： KB5010351
+ Windows Server 2022 请安装补丁： KB5010354
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-23283	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-23283
+ Windows 10 请安装补丁: KB5011491	KB5011495	KB5011503	KB5011485	KB5011487
+ Windows 11 请安装补丁： KB5011493
+ Windows 7 请安装补丁： KB5011529
+ Windows 8.1 请安装补丁： KB5011560
+ Windows Server 2008  请安装补丁：KB5011525
+ Windows Server 2008 R2 请安装补丁： KB5011529	
+ Windows Server 2012 请安装补丁：KB5011527
+ Windows Server 2012 R2 请安装补丁： KB5011560
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-22002	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-22002
+ Windows 10 请安装补丁: KB5010358	KB5010359	KB5010351	KB5010345	KB5010342
+ Windows 11 请安装补丁： KB5010386
+ Windows 8.1 请安装补丁： KB5010395
+ Windows Server 2012 请安装补丁：KB5010412
+ Windows Server 2012 R2 请安装补丁： KB5010395
+ Windows Server 2016 请安装补丁： KB5010359
+ Windows Server 2019 请安装补丁： KB5010351
+ Windows Server 2022 请安装补丁： KB5010354
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-23281	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-23281
+ Windows 10 请安装补丁: KB5011491	KB5011487	KB5011485	KB5011503	KB5011495
+ Windows 11 请安装补丁： KB5011493
+ Windows 7 请安装补丁： KB5011529
+ Windows 8.1 请安装补丁： KB5011560
+ Windows Server 2008  请安装补丁：KB5011525
+ Windows Server 2008 R2 请安装补丁： KB5011529	
+ Windows Server 2012 请安装补丁：KB5011527
+ Windows Server 2012 R2 请安装补丁： KB5011560
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2021-38672	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-38672
+ Windows 11 请安装补丁： KB5006674
+ Windows Server 2022 请安装补丁： KB5006699
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-21992	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-21992
+ Windows 10 请安装补丁: KB5010359	KB5010351	KB5010345	KB5010342
+ Windows 11 请安装补丁： KB5010386
+ Windows Server 2016 请安装补丁： KB5010359
+ Windows Server 2019 请安装补丁： KB5010351
+ Windows Server 2022 请安装补丁： KB5010354
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-21990	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-21990
+ Windows 10 请安装补丁: KB5011491	KB5011495	KB5011503	KB5011485	KB5011487
+ Windows 11 请安装补丁： KB5011493
+ Windows 7 请安装补丁： KB5011529
+ Windows 8.1 请安装补丁： KB5011560
+ Windows Server 2008  请安装补丁：KB5011525
+ Windows Server 2008 R2 请安装补丁： KB5011529
+ Windows Server 2012 请安装补丁：KB5011527
+ Windows Server 2012 R2 请安装补丁： KB5011560
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-21981	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-21981
+ Windows 10 请安装补丁: KB5010358	KB5010359	KB5010351	KB5010345	KB5010342
+ Windows 11 请安装补丁： KB5010386
+ Windows 7 请安装补丁： KB5010422
+ Windows 8.1 请安装补丁： KB5010395
+ Windows Server 2008  请安装补丁：KB5010403
+ Windows Server 2008 R2 请安装补丁： KB5010422
+ Windows Server 2012 请安装补丁：KB5010412
+ Windows Server 2012 R2 请安装补丁： KB5010395
+ Windows Server 2016 请安装补丁： KB5010359
+ Windows Server 2019 请安装补丁： KB5010351
+ Windows Server 2022 请安装补丁： KB5010354
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-22000	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-22000
+ Windows 10 请安装补丁: KB5010358	KB5010359	KB5010351	KB5010345	KB5010342
+ Windows 11 请安装补丁： KB5010386
+ Windows 7 请安装补丁： KB5010422
+ Windows 8.1 请安装补丁： KB5010395
+ Windows Server 2008  请安装补丁：KB5010403
+ Windows Server 2008 R2 请安装补丁： KB5010422
+ Windows Server 2012 请安装补丁：KB5010412
+ Windows Server 2012 R2 请安装补丁： KB5010395
+ Windows Server 2016 请安装补丁： KB5010359
+ Windows Server 2019 请安装补丁： KB5010351
+ Windows Server 2022 请安装补丁： KB5010354
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2021-41336	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-41336
+ Windows 11 请安装补丁： KB5006674
+ Windows Server 2022 请安装补丁： KB5006699
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-22717	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-22717
+ Windows 10 请安装补丁: KB5010358	KB5010359	KB5010351	KB5010345	KB5010342
+ Windows 11 请安装补丁： KB5010386
+ Windows 7 请安装补丁： KB5010422
+ Windows 8.1 请安装补丁： KB5010395
+ Windows Server 2008  请安装补丁：KB5010403
+ Windows Server 2008 R2 请安装补丁： KB5010422
+ Windows Server 2012 请安装补丁：KB5010412
+ Windows Server 2012 R2 请安装补丁： KB5010395
+ Windows Server 2016 请安装补丁： KB5010359
+ Windows Server 2019 请安装补丁： KB5010351
+ Windows Server 2022 请安装补丁： KB5010354
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-22001	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-22001
+ Windows 10 请安装补丁: KB5010358	KB5010359	KB5010351	KB5010345	KB5010342
+ Windows 11 请安装补丁： KB5010386
+ Windows 8.1 请安装补丁： KB5010395
+ Windows Server 2012 请安装补丁：KB5010412
+ Windows Server 2012 R2 请安装补丁： KB5010395
+ Windows Server 2016 请安装补丁： KB5010359
+ Windows Server 2019 请安装补丁： KB5010351
+ Windows Server 2022 请安装补丁： KB5010354
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-21977	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-21977
+ Windows 10 请安装补丁: KB5011491	KB5011495	KB5011503	KB5011485	KB5011487
+ Windows 11 请安装补丁： KB5010386
+ Windows 8.1 请安装补丁： KB5011560
+ Windows Server 2012 R2 请安装补丁： KB5011560
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-21998	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-21998
+ Windows 10 请安装补丁: KB5010358	KB5010359	KB5010351	KB5010345	KB5010342
+ Windows 11 请安装补丁： KB5010386
+ Windows 7 请安装补丁： KB5010422
+ Windows 8.1 请安装补丁： KB5010395
+ Windows Server 2008  请安装补丁：KB5010403
+ Windows Server 2008 R2 请安装补丁： KB5010422
+ Windows Server 2012 请安装补丁：KB5010412
+ Windows Server 2012 R2 请安装补丁： KB5010395
+ Windows Server 2016 请安装补丁： KB5010359
+ Windows Server 2019 请安装补丁： KB5010351
+ Windows Server 2022 请安装补丁： KB5010354
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-21997	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-21997
+ Windows 10 请安装补丁: KB5010358	KB5010359	KB5010351	KB5010345	KB5010342
+ Windows 11 请安装补丁： KB5010386
+ Windows 7 请安装补丁： KB5010422
+ Windows 8.1 请安装补丁： KB5010395
+ Windows Server 2008  请安装补丁：KB5010403
+ Windows Server 2008 R2 请安装补丁： KB5010422
+ Windows Server 2012 请安装补丁：KB5010412
+ Windows Server 2012 R2 请安装补丁： KB5010395
+ Windows Server 2016 请安装补丁： KB5010359
+ Windows Server 2019 请安装补丁： KB5010351
+ Windows Server 2022 请安装补丁： KB5010354
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-22010	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-22010
+ Windows 10 请安装补丁: KB5011491	KB5011495	KB5011503	KB5011485	KB5011487
+ Windows 11 请安装补丁： KB5011493	
+ Windows 8.1 请安装补丁： KB5011560
+ Windows Server 2012 请安装补丁：KB5011527
+ Windows Server 2012 R2 请安装补丁： KB5011560
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-23290	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-23290
+ Windows 10 请安装补丁: KB5011491	KB5011495	KB5011503	KB5011485	KB5011487
+ Windows 11 请安装补丁： KB5011493
+ Windows 7 请安装补丁： KB5011529
+ Windows 8.1 请安装补丁： KB5011560
+ Windows Server 2008  请安装补丁：KB5011525
+ Windows Server 2008 R2 请安装补丁： KB5011529
+ Windows Server 2012 请安装补丁：KB5011527
+ Windows Server 2012 R2 请安装补丁： KB5011560
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-24508	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-24508
+ Windows 10 请安装补丁: KB5011487
+ Windows 11 请安装补丁： KB5011493
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-21974	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-21974
+ Windows 10 请安装补丁: KB5010359	KB5010351	KB5010345	KB5010342
+ Windows 11 请安装补丁： KB5010386
+ Windows Server 2016 请安装补丁： KB5010359
+ Windows Server 2019 请安装补丁： KB5010351
+ Windows Server 2022 请安装补丁： KB5010354
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-23297	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-23297
+ Windows 10 请安装补丁: KB5011491	KB5011495	KB5011503	KB5011485	KB5011487
+ Windows 11 请安装补丁： KB5011493
+ Windows 7 请安装补丁： KB5011529
+ Windows 8.1 请安装补丁： KB5011560
+ Windows Server 2008  请安装补丁：KB5011525
+ Windows Server 2008 R2 请安装补丁： KB5011529
+ Windows Server 2012 请安装补丁：KB5011527
+ Windows Server 2012 R2 请安装补丁： KB5011560
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-23288	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-23288
+ Windows 10 请安装补丁: KB5011503	KB5011485	KB5011487
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-21975	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-21975
+ Windows 10 请安装补丁: KB5011491	KB5011495	KB5011503	KB5011485	KB5011487
+ Windows 8.1 请安装补丁： KB5011560
+ Windows Server 2012 R2 请安装补丁： KB5011560
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-23253	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-23253
+ Windows 10 请安装补丁: KB5011491	KB5011495	KB5011503	KB5011485	KB5011487
+ Windows 11 请安装补丁： KB5011493
+ Windows 7 请安装补丁： KB5011529
+ Windows 8.1 请安装补丁： KB5011560
+ Windows Server 2008 R2 请安装补丁： KB5011529
+ Windows Server 2012 请安装补丁：KB5011527
+ Windows Server 2012 R2 请安装补丁： KB5011560
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-24507	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-24507
+ Windows 10 请安装补丁: KB5011495	KB5011503	KB5011485	KB5011487
+ Windows 11 请安装补丁： KB5011493
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-23298	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-23298
+ Windows 10 请安装补丁: KB5011491	KB5011495	KB5011503	KB5011485	KB5011487
+ Windows 11 请安装补丁： KB5011493
+ Windows 7 请安装补丁： KB5011529
+ Windows 8.1 请安装补丁： KB5011560
+ Windows Server 2008  请安装补丁：KB5011525
+ Windows Server 2008 R2 请安装补丁： KB5011529
+ Windows Server 2012 请安装补丁：KB5011527
+ Windows Server 2012 R2 请安装补丁： KB5011560
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-22712	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-22712
+ Windows 10 请安装补丁: 	KB5010351	KB5010345	KB5010342
+ Windows 11 请安装补丁： KB5010386
+ Windows Server 2019 请安装补丁： KB5010351
+ Windows Server 2022 请安装补丁： KB5010354
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-24502	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-24502
+ Windows 10 请安装补丁: KB5011491	KB5011495	KB5011503	KB5011485	KB5011487
+ Windows 11 请安装补丁： KB5011493
+ Windows 7 请安装补丁： KB5011486	KB5011552	KB5011529
+ Windows 8.1 请安装补丁： KB5011486	KB5011564	KB5011560
+ Windows Server 2008  请安装补丁：KB5011486	KB5011534	KB5011525
+ Windows Server 2008 R2 请安装补丁： KB5011486	KB5011552	KB5011529
+ Windows Server 2012 请安装补丁：KB5011486	KB5011535	KB5011527
+ Windows Server 2012 R2 请安装补丁： KB5011486	KB5011564	KB5011560
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-22718	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-22718
+ Windows 10 请安装补丁: KB5010358	KB5010359	KB5010351	KB5010345	KB5010342
+ Windows 11 请安装补丁： KB5010386
+ Windows 7 请安装补丁： KB5010422
+ Windows 8.1 请安装补丁： KB5010395
+ Windows Server 2008  请安装补丁：KB5010403
+ Windows Server 2008 R2 请安装补丁： KB5010422
+ Windows Server 2012 请安装补丁：KB5010412
+ Windows Server 2012 R2 请安装补丁： KB5010395
+ Windows Server 2016 请安装补丁： KB5010359
+ Windows Server 2019 请安装补丁： KB5010351
+ Windows Server 2022 请安装补丁： KB5010354
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-23284	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-23284
+ Windows 10 请安装补丁: KB5011491	KB5011495	KB5011503	KB5011485	KB5011487
+ Windows 11 请安装补丁： KB5011493
+ Windows 8.1 请安装补丁： KB5011560
+ Windows Server 2012 请安装补丁：KB5011527
+ Windows Server 2012 R2 请安装补丁： KB5011560
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-23285	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-23285
+ Windows 10 请安装补丁: KB5011491	KB5011495	KB5011503	KB5011485	KB5011487
+ Windows 7 请安装补丁： KB5011529
+ Windows 8.1 请安装补丁： KB5011560
+ Windows Server 2008 R2 请安装补丁： KB5011529
+ Windows Server 2012 请安装补丁：KB5011527
+ Windows Server 2012 R2 请安装补丁： KB5011560
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-22715	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-22715
+ Windows 10 请安装补丁: KB5010351	KB5010345	KB5010342
+ Windows 11 请安装补丁： KB5010386
+ Windows Server 2019 请安装补丁： KB5010351
+ Windows Server 2022 请安装补丁： KB5010354
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+CVE-2022-23296	https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-23296
+ Windows 10 请安装补丁: KB5011491	KB5011495	KB5011503	KB5011485	KB5011487
+ Windows 11 请安装补丁： KB5011493
+ Windows 7 请安装补丁： KB5011529
+ Windows 8.1 请安装补丁： KB5011560
+ Windows Server 2008  请安装补丁：KB5011525
+ Windows Server 2008 R2 请安装补丁： KB5011529
+ Windows Server 2012 请安装补丁：KB5011527
+ Windows Server 2012 R2 请安装补丁： KB5011560
+ Windows Server 2016 请安装补丁： KB5011495
+ Windows Server 2019 请安装补丁： KB5011503
+ Windows Server 2022 请安装补丁： KB5011497
+补丁搜索见：<a>https://www.catalog.update.microsoft.com/home.aspx</a>
+
+
+
+
+,"microsoftwindowsserver2022","microsoftwindows11"
+
+
+
+
+

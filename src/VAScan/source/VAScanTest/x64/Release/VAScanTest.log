@@ -1,0 +1,21 @@
+﻿Build started 2022/6/14 9:51:45.
+     1>Project "C:\Users\yinsiyuan\work\01_code\VAScan\source\VAScanTest\VAScanTest.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /Gd /TP /errorReport:prompt VAScanTest.cpp
+         VAScanTest.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"x64\Release\VAScanTest.exe" /INCREMENTAL:NO /NOLOGO ..\..\output\x64\libvaeng.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"x64\Release\VAScanTest.pdb" /SUBSYSTEM:CONSOLE,"5.02" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"x64\Release\VAScanTest.lib" /MACHINE:X64 x64\Release\VAScanTest.obj
+         Generating code
+         Finished generating code
+         VAScanTest.vcxproj -> C:\Users\yinsiyuan\work\01_code\VAScan\source\VAScanTest\x64\Release\VAScanTest.exe
+       PostBuildEvent:
+         mkdir ..\..\output\x64
+         copy x64\Release\VAScanTest.exe ..\..\output\x64\VAScanTest.exe
+         :VCEnd
+         子目录或文件 ..\..\output\x64 已经存在。
+         已复制         1 个文件。
+     1>Done Building Project "C:\Users\yinsiyuan\work\01_code\VAScan\source\VAScanTest\VAScanTest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.96

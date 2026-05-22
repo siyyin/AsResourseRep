@@ -1,0 +1,23 @@
+﻿Build started 2022/6/14 9:51:28.
+     1>Project "C:\Users\yinsiyuan\work\01_code\VAScan\source\Encrypt\Encrypt.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl- /O2 /Oi /Oy- /GL /D ZLIB_WINAPI /D WIN32 /D NDEBUG /D _CONSOLE /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt ..\cypher\cpbf.c ..\cypher\cypher.c
+         cpbf.c
+         cypher.c
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl- /O2 /Oi /Oy- /GL /D ZLIB_WINAPI /D WIN32 /D NDEBUG /D _CONSOLE /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\md5\md5.cpp main.cpp
+         md5.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Release\Encrypt.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\lib\x86\Release zlibstat.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Release\Encrypt.pdb" /SUBSYSTEM:CONSOLE,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Release\Encrypt.lib" /MACHINE:X86 /SAFESEH Release\cpbf.obj
+         Release\cypher.obj
+         Release\md5.obj
+         Release\main.obj
+            Creating library Release\Encrypt.lib and object Release\Encrypt.exp
+         Generating code
+         Finished generating code
+         Encrypt.vcxproj -> C:\Users\yinsiyuan\work\01_code\VAScan\source\Encrypt\Release\Encrypt.exe
+     1>Done Building Project "C:\Users\yinsiyuan\work\01_code\VAScan\source\Encrypt\Encrypt.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.28

@@ -1,0 +1,9 @@
+LIBRARY "libvaeng"
+	EXPORTS
+		VAInitialize
+		VALoadPattern
+		VAExecuteScan
+		VAFreeScanResult
+		VAGetPatternVersion
+		VAGetEngineVersion
+		VAUnInitialize
